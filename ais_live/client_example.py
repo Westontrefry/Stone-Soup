@@ -20,7 +20,7 @@ import numpy as np
 import requests
 import utm
 
-FEED_URL = "https://bc55-2603-6010-9200-c00-1819-5480-f8d5-29d8.ngrok-free.app/api/ais"
+FEED_URL = "https://YOUR-NGROK-URL.ngrok-free.app/api/ais"
 POLL_INTERVAL = 2  # seconds between polls when no new data is available
 
 
