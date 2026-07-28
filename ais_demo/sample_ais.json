@@ -1,0 +1,427 @@
+[
+ {
+  "ERROR": "false"
+ },
+ [
+  {
+   "NAME": "MARTCILINO 7",
+   "MMSI": 205466026,
+   "LONGITUDE": 821291,
+   "LATITUDE": 30828492,
+   "TIME": "1516234500",
+   "COG": 132,
+   "SOG": 12.3,
+   "HEADING": 132
+  },
+  {
+   "NAME": "NORDIC STAR 17",
+   "MMSI": 205466018,
+   "LONGITUDE": 1149207,
+   "LATITUDE": 30830437,
+   "TIME": "1516235640",
+   "COG": 42,
+   "SOG": 14.8,
+   "HEADING": 42
+  },
+  {
+   "NAME": "NORDIC STAR 13",
+   "MMSI": 205466014,
+   "LONGITUDE": 1022792,
+   "LATITUDE": 30755954,
+   "TIME": "1516235160",
+   "COG": 42,
+   "SOG": 12.5,
+   "HEADING": 42
+  },
+  {
+   "NAME": "MARTCILINO 2",
+   "MMSI": 205466021,
+   "LONGITUDE": 692770,
+   "LATITUDE": 30890351,
+   "TIME": "1516233900",
+   "COG": 132,
+   "SOG": 12.5,
+   "HEADING": 132
+  },
+  {
+   "NAME": "ANCHOR 8",
+   "MMSI": 205466041,
+   "LONGITUDE": 848300,
+   "LATITUDE": 30772162,
+   "TIME": "1516234350",
+   "COG": 54.3,
+   "SOG": 0.0,
+   "HEADING": 54
+  },
+  {
+   "NAME": "NORDIC STAR 14",
+   "MMSI": 205466015,
+   "LONGITUDE": 1065706,
+   "LATITUDE": 30759652,
+   "TIME": "1516235280",
+   "COG": 42,
+   "SOG": 12.2,
+   "HEADING": 42
+  },
+  {
+   "NAME": "ANCHOR 1",
+   "MMSI": 205466034,
+   "LONGITUDE": 858822,
+   "LATITUDE": 30777747,
+   "TIME": "1516233720",
+   "COG": 174.1,
+   "SOG": 0.1,
+   "HEADING": 174
+  },
+  {
+   "NAME": "MARTCILINO 10",
+   "MMSI": 205466029,
+   "LONGITUDE": 913147,
+   "LATITUDE": 30775034,
+   "TIME": "1516234860",
+   "COG": 132,
+   "SOG": 11.0,
+   "HEADING": 132
+  },
+  {
+   "NAME": "NORDIC STAR 1",
+   "MMSI": 205466002,
+   "LONGITUDE": 729826,
+   "LATITUDE": 30591359,
+   "TIME": "1516233720",
+   "COG": 42,
+   "SOG": 12.8,
+   "HEADING": 42
+  },
+  {
+   "NAME": "MARTCILINO 8",
+   "MMSI": 205466027,
+   "LONGITUDE": 864760,
+   "LATITUDE": 30802656,
+   "TIME": "1516234620",
+   "COG": 132,
+   "SOG": 9.8,
+   "HEADING": 132
+  },
+  {
+   "NAME": "NORDIC STAR 12",
+   "MMSI": 205466013,
+   "LONGITUDE": 1002279,
+   "LATITUDE": 30736399,
+   "TIME": "1516235040",
+   "COG": 42,
+   "SOG": 12.6,
+   "HEADING": 42
+  },
+  {
+   "NAME": "MARTCILINO 0",
+   "MMSI": 205466019,
+   "LONGITUDE": 638032,
+   "LATITUDE": 30941350,
+   "TIME": "1516233660",
+   "COG": 132,
+   "SOG": 9.2,
+   "HEADING": 132
+  },
+  {
+   "NAME": "ANCHOR 5",
+   "MMSI": 205466038,
+   "LONGITUDE": 881500,
+   "LATITUDE": 30752596,
+   "TIME": "1516234080",
+   "COG": 286.4,
+   "SOG": 0.3,
+   "HEADING": 286
+  },
+  {
+   "NAME": "MARTCILINO 3",
+   "MMSI": 205466022,
+   "LONGITUDE": 699971,
+   "LATITUDE": 30872707,
+   "TIME": "1516234020",
+   "COG": 132,
+   "SOG": 11.3,
+   "HEADING": 132
+  },
+  {
+   "NAME": "MARTCILINO 9",
+   "MMSI": 205466028,
+   "LONGITUDE": 882332,
+   "LATITUDE": 30787423,
+   "TIME": "1516234740",
+   "COG": 132,
+   "SOG": 12.8,
+   "HEADING": 132
+  },
+  {
+   "NAME": "NORDIC STAR 11",
+   "MMSI": 205466012,
+   "LONGITUDE": 985060,
+   "LATITUDE": 30734676,
+   "TIME": "1516234920",
+   "COG": 42,
+   "SOG": 12.0,
+   "HEADING": 42
+  },
+  {
+   "NAME": "MARTCILINO 1",
+   "MMSI": 205466020,
+   "LONGITUDE": 647660,
+   "LATITUDE": 30896073,
+   "TIME": "1516233780",
+   "COG": 132,
+   "SOG": 11.9,
+   "HEADING": 132
+  },
+  {
+   "NAME": "NORDIC STAR 6",
+   "MMSI": 205466007,
+   "LONGITUDE": 838148,
+   "LATITUDE": 30653323,
+   "TIME": "1516234320",
+   "COG": 42,
+   "SOG": 15.9,
+   "HEADING": 42
+  },
+  {
+   "NAME": "NORDIC STAR 0",
+   "MMSI": 205466001,
+   "LONGITUDE": 686929,
+   "LATITUDE": 30576137,
+   "TIME": "1516233600",
+   "COG": 42,
+   "SOG": 14.3,
+   "HEADING": 42
+  },
+  {
+   "NAME": "ANCHOR 6",
+   "MMSI": 205466039,
+   "LONGITUDE": 835472,
+   "LATITUDE": 30777473,
+   "TIME": "1516234170",
+   "COG": 227.7,
+   "SOG": 0.0,
+   "HEADING": 227
+  },
+  {
+   "NAME": "NORDIC STAR 5",
+   "MMSI": 205466006,
+   "LONGITUDE": 825175,
+   "LATITUDE": 30660743,
+   "TIME": "1516234200",
+   "COG": 42,
+   "SOG": 15.7,
+   "HEADING": 42
+  },
+  {
+   "NAME": "ANCHOR 0",
+   "MMSI": 205466033,
+   "LONGITUDE": 824465,
+   "LATITUDE": 30792152,
+   "TIME": "1516233630",
+   "COG": 54.2,
+   "SOG": 0.4,
+   "HEADING": 54
+  },
+  {
+   "NAME": "NORDIC STAR 8",
+   "MMSI": 205466009,
+   "LONGITUDE": 905469,
+   "LATITUDE": 30693318,
+   "TIME": "1516234560",
+   "COG": 42,
+   "SOG": 12.5,
+   "HEADING": 42
+  },
+  {
+   "NAME": "NORDIC STAR 10",
+   "MMSI": 205466011,
+   "LONGITUDE": 947262,
+   "LATITUDE": 30709361,
+   "TIME": "1516234800",
+   "COG": 42,
+   "SOG": 13.7,
+   "HEADING": 42
+  },
+  {
+   "NAME": "ANCHOR 4",
+   "MMSI": 205466037,
+   "LONGITUDE": 823020,
+   "LATITUDE": 30765979,
+   "TIME": "1516233990",
+   "COG": 19.4,
+   "SOG": 0.3,
+   "HEADING": 19
+  },
+  {
+   "NAME": "NORDIC STAR 3",
+   "MMSI": 205466004,
+   "LONGITUDE": 765236,
+   "LATITUDE": 30616320,
+   "TIME": "1516233960",
+   "COG": 42,
+   "SOG": 11.5,
+   "HEADING": 42
+  },
+  {
+   "NAME": "NORDIC STAR 4",
+   "MMSI": 205466005,
+   "LONGITUDE": 775890,
+   "LATITUDE": 30639557,
+   "TIME": "1516234080",
+   "COG": 42,
+   "SOG": 11.6,
+   "HEADING": 42
+  },
+  {
+   "NAME": "NORDIC STAR 2",
+   "MMSI": 205466003,
+   "LONGITUDE": 756284,
+   "LATITUDE": 30604737,
+   "TIME": "1516233840",
+   "COG": 42,
+   "SOG": 11.2,
+   "HEADING": 42
+  },
+  {
+   "NAME": "ANCHOR 9",
+   "MMSI": 205466042,
+   "LONGITUDE": 868044,
+   "LATITUDE": 30776488,
+   "TIME": "1516234440",
+   "COG": 313.9,
+   "SOG": 0.0,
+   "HEADING": 313
+  },
+  {
+   "NAME": "ANCHOR 3",
+   "MMSI": 205466036,
+   "LONGITUDE": 833510,
+   "LATITUDE": 30782197,
+   "TIME": "1516233900",
+   "COG": 247.9,
+   "SOG": 0.4,
+   "HEADING": 247
+  },
+  {
+   "NAME": "NORDIC STAR 15",
+   "MMSI": 205466016,
+   "LONGITUDE": 1073985,
+   "LATITUDE": 30785751,
+   "TIME": "1516235400",
+   "COG": 42,
+   "SOG": 15.4,
+   "HEADING": 42
+  },
+  {
+   "NAME": "MARTCILINO 11",
+   "MMSI": 205466030,
+   "LONGITUDE": 938015,
+   "LATITUDE": 30748752,
+   "TIME": "1516234980",
+   "COG": 132,
+   "SOG": 11.2,
+   "HEADING": 132
+  },
+  {
+   "NAME": "MARTCILINO 13",
+   "MMSI": 205466032,
+   "LONGITUDE": 996364,
+   "LATITUDE": 30712687,
+   "TIME": "1516235220",
+   "COG": 132,
+   "SOG": 11.1,
+   "HEADING": 132
+  },
+  {
+   "NAME": "ANCHOR 2",
+   "MMSI": 205466035,
+   "LONGITUDE": 838108,
+   "LATITUDE": 30761779,
+   "TIME": "1516233810",
+   "COG": 150.4,
+   "SOG": 0.0,
+   "HEADING": 150
+  },
+  {
+   "NAME": "NORDIC STAR 7",
+   "MMSI": 205466008,
+   "LONGITUDE": 898015,
+   "LATITUDE": 30680611,
+   "TIME": "1516234440",
+   "COG": 42,
+   "SOG": 12.4,
+   "HEADING": 42
+  },
+  {
+   "NAME": "MARTCILINO 12",
+   "MMSI": 205466031,
+   "LONGITUDE": 938621,
+   "LATITUDE": 30728550,
+   "TIME": "1516235100",
+   "COG": 132,
+   "SOG": 13.1,
+   "HEADING": 132
+  },
+  {
+   "NAME": "MARTCILINO 5",
+   "MMSI": 205466024,
+   "LONGITUDE": 766281,
+   "LATITUDE": 30845588,
+   "TIME": "1516234260",
+   "COG": 132,
+   "SOG": 12.5,
+   "HEADING": 132
+  },
+  {
+   "NAME": "MARTCILINO 4",
+   "MMSI": 205466023,
+   "LONGITUDE": 756235,
+   "LATITUDE": 30841003,
+   "TIME": "1516234140",
+   "COG": 132,
+   "SOG": 11.4,
+   "HEADING": 132
+  },
+  {
+   "NAME": "NORDIC STAR 16",
+   "MMSI": 205466017,
+   "LONGITUDE": 1112256,
+   "LATITUDE": 30797369,
+   "TIME": "1516235520",
+   "COG": 42,
+   "SOG": 15.9,
+   "HEADING": 42
+  },
+  {
+   "NAME": "NORDIC STAR 9",
+   "MMSI": 205466010,
+   "LONGITUDE": 931294,
+   "LATITUDE": 30696480,
+   "TIME": "1516234680",
+   "COG": 42,
+   "SOG": 13.9,
+   "HEADING": 42
+  },
+  {
+   "NAME": "MARTCILINO 6",
+   "MMSI": 205466025,
+   "LONGITUDE": 773355,
+   "LATITUDE": 30802858,
+   "TIME": "1516234380",
+   "COG": 132,
+   "SOG": 13.1,
+   "HEADING": 132
+  },
+  {
+   "NAME": "ANCHOR 7",
+   "MMSI": 205466040,
+   "LONGITUDE": 859250,
+   "LATITUDE": 30770135,
+   "TIME": "1516234260",
+   "COG": 58.3,
+   "SOG": 0.1,
+   "HEADING": 58
+  }
+ ]
+]

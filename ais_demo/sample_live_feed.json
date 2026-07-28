@@ -1,0 +1,3213 @@
+{
+ "cursor": 67413,
+ "detections": [
+  {
+   "COG_degrees": 60.3,
+   "Latitude_degrees": 50.7971083333333,
+   "Longitude_degrees": -1.113055,
+   "MMSI": 235024149,
+   "SOG_knots": 8.0,
+   "Time": "2026-07-29 00:03:32.534814"
+  },
+  {
+   "COG_degrees": 41.8,
+   "Latitude_degrees": 50.8058616666667,
+   "Longitude_degrees": -1.10458,
+   "MMSI": 232002833,
+   "SOG_knots": 1.2,
+   "Time": "2026-07-29 00:03:32.534814"
+  },
+  {
+   "COG_degrees": 0.0,
+   "Latitude_degrees": 50.8069716666667,
+   "Longitude_degrees": -1.11581833333333,
+   "MMSI": 212890000,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:03:32.971814"
+  },
+  {
+   "COG_degrees": 56.0,
+   "Latitude_degrees": 50.7726666666667,
+   "Longitude_degrees": -1.11933333333333,
+   "MMSI": 235031618,
+   "SOG_knots": 8.9,
+   "Time": "2026-07-29 00:03:32.971814"
+  },
+  {
+   "COG_degrees": 176.0,
+   "Latitude_degrees": 50.7961833333333,
+   "Longitude_degrees": -1.11155,
+   "MMSI": 235061621,
+   "SOG_knots": 6.0,
+   "Time": "2026-07-29 00:03:32.971814"
+  },
+  {
+   "COG_degrees": 158.3,
+   "Latitude_degrees": 50.7596666666667,
+   "Longitude_degrees": -1.09283333333333,
+   "MMSI": 235014661,
+   "SOG_knots": 22.7,
+   "Time": "2026-07-29 00:03:33.190814"
+  },
+  {
+   "COG_degrees": 218.2,
+   "Latitude_degrees": 50.8172466666667,
+   "Longitude_degrees": -1.11884,
+   "MMSI": 235099969,
+   "SOG_knots": 8.0,
+   "Time": "2026-07-29 00:03:33.299814"
+  },
+  {
+   "COG_degrees": 54.9,
+   "Latitude_degrees": 50.7429366666667,
+   "Longitude_degrees": -1.15305333333333,
+   "MMSI": 235069877,
+   "SOG_knots": 21.9,
+   "Time": "2026-07-29 00:03:33.408814"
+  },
+  {
+   "COG_degrees": 173.0,
+   "Latitude_degrees": 50.794275,
+   "Longitude_degrees": -1.11271666666667,
+   "MMSI": 232002939,
+   "SOG_knots": 7.3,
+   "Time": "2026-07-29 00:03:33.408814"
+  },
+  {
+   "COG_degrees": 173.0,
+   "Latitude_degrees": 50.801,
+   "Longitude_degrees": -1.1155,
+   "MMSI": 235072757,
+   "SOG_knots": 2.8,
+   "Time": "2026-07-29 00:03:33.626814"
+  },
+  {
+   "COG_degrees": 178.0,
+   "Latitude_degrees": 50.7961666666667,
+   "Longitude_degrees": -1.11266666666667,
+   "MMSI": 235070763,
+   "SOG_knots": 6.2,
+   "Time": "2026-07-29 00:03:33.736814"
+  },
+  {
+   "COG_degrees": 122.8,
+   "Latitude_degrees": 50.7896166666667,
+   "Longitude_degrees": -1.12102333333333,
+   "MMSI": 235086588,
+   "SOG_knots": 1.8,
+   "Time": "2026-07-29 00:03:34.282814"
+  },
+  {
+   "COG_degrees": 162.8,
+   "Latitude_degrees": 50.7947033333333,
+   "Longitude_degrees": -1.107785,
+   "MMSI": 235083855,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:03:34.500814"
+  },
+  {
+   "COG_degrees": 92.1,
+   "Latitude_degrees": 50.7959416666667,
+   "Longitude_degrees": -1.10916166666667,
+   "MMSI": 235069875,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:03:34.828814"
+  },
+  {
+   "COG_degrees": 289.1,
+   "Latitude_degrees": 50.7979066666667,
+   "Longitude_degrees": -1.118615,
+   "MMSI": 235028911,
+   "SOG_knots": 0.2,
+   "Time": "2026-07-29 00:03:34.828814"
+  },
+  {
+   "COG_degrees": 151.7,
+   "Latitude_degrees": 50.7595,
+   "Longitude_degrees": -1.09283333333333,
+   "MMSI": 235014661,
+   "SOG_knots": 22.5,
+   "Time": "2026-07-29 00:03:35.374814"
+  },
+  {
+   "COG_degrees": 300.9,
+   "Latitude_degrees": 50.83349,
+   "Longitude_degrees": -0.96761,
+   "MMSI": 235110094,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:03:35.592814"
+  },
+  {
+   "COG_degrees": 63.4,
+   "Latitude_degrees": 50.7971516666667,
+   "Longitude_degrees": -1.11288833333333,
+   "MMSI": 235024149,
+   "SOG_knots": 8.1,
+   "Time": "2026-07-29 00:03:36.029814"
+  },
+  {
+   "COG_degrees": 88.0,
+   "Latitude_degrees": 50.8009833333333,
+   "Longitude_degrees": -1.11353333333333,
+   "MMSI": 311855000,
+   "SOG_knots": 0.8,
+   "Time": "2026-07-29 00:03:36.138814"
+  },
+  {
+   "COG_degrees": 120.0,
+   "Latitude_degrees": 50.7647333333333,
+   "Longitude_degrees": -1.15717333333333,
+   "MMSI": 247007000,
+   "SOG_knots": 11.2,
+   "Time": "2026-07-29 00:03:36.247814"
+  },
+  {
+   "COG_degrees": 214.3,
+   "Latitude_degrees": 50.81715,
+   "Longitude_degrees": -1.11893,
+   "MMSI": 235099969,
+   "SOG_knots": 8.0,
+   "Time": "2026-07-29 00:03:36.247814"
+  },
+  {
+   "COG_degrees": 253.3,
+   "Latitude_degrees": 50.79831,
+   "Longitude_degrees": -1.122105,
+   "MMSI": 235109129,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:03:36.356814"
+  },
+  {
+   "COG_degrees": 26.6,
+   "Latitude_degrees": 50.7990083333333,
+   "Longitude_degrees": -1.29879333333333,
+   "MMSI": 235006680,
+   "SOG_knots": 11.2,
+   "Time": "2026-07-29 00:03:36.575814"
+  },
+  {
+   "COG_degrees": 172.0,
+   "Latitude_degrees": 50.801,
+   "Longitude_degrees": -1.1155,
+   "MMSI": 235072757,
+   "SOG_knots": 2.7,
+   "Time": "2026-07-29 00:03:36.793814"
+  },
+  {
+   "COG_degrees": 56.0,
+   "Latitude_degrees": 50.7728333333333,
+   "Longitude_degrees": -1.11916666666667,
+   "MMSI": 235031618,
+   "SOG_knots": 8.9,
+   "Time": "2026-07-29 00:03:36.902814"
+  },
+  {
+   "COG_degrees": 144.3,
+   "Latitude_degrees": 50.7593333333333,
+   "Longitude_degrees": -1.0925,
+   "MMSI": 235014661,
+   "SOG_knots": 21.8,
+   "Time": "2026-07-29 00:03:37.121814"
+  },
+  {
+   "COG_degrees": 241.0,
+   "Latitude_degrees": 50.7345,
+   "Longitude_degrees": -1.21316666666667,
+   "MMSI": 235031617,
+   "SOG_knots": 0.1,
+   "Time": "2026-07-29 00:03:37.339814"
+  },
+  {
+   "COG_degrees": 118.2,
+   "Latitude_degrees": 50.8141,
+   "Longitude_degrees": -1.09233333333333,
+   "MMSI": 245188000,
+   "SOG_knots": 0.1,
+   "Time": "2026-07-29 00:03:37.776814"
+  },
+  {
+   "COG_degrees": 179.0,
+   "Latitude_degrees": 50.796,
+   "Longitude_degrees": -1.11266666666667,
+   "MMSI": 235070763,
+   "SOG_knots": 6.3,
+   "Time": "2026-07-29 00:03:38.104814"
+  },
+  {
+   "COG_degrees": 174.8,
+   "Latitude_degrees": 50.7090866666667,
+   "Longitude_degrees": -1.04554833333333,
+   "MMSI": 236112059,
+   "SOG_knots": 0.4,
+   "Time": "2026-07-29 00:03:38.104814"
+  },
+  {
+   "COG_degrees": 187.0,
+   "Latitude_degrees": 50.7977933333333,
+   "Longitude_degrees": -1.11653666666667,
+   "MMSI": 235074703,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:03:38.322814"
+  },
+  {
+   "COG_degrees": 86.0,
+   "Latitude_degrees": 50.8009833333333,
+   "Longitude_degrees": -1.11353333333333,
+   "MMSI": 311855000,
+   "SOG_knots": 0.8,
+   "Time": "2026-07-29 00:03:38.540814"
+  },
+  {
+   "COG_degrees": 271.0,
+   "Latitude_degrees": 50.7594833333333,
+   "Longitude_degrees": -1.1158,
+   "MMSI": 311758000,
+   "SOG_knots": 0.2,
+   "Time": "2026-07-29 00:03:38.540814"
+  },
+  {
+   "COG_degrees": 250.0,
+   "Latitude_degrees": 50.811405,
+   "Longitude_degrees": -1.09696166666667,
+   "MMSI": 227273000,
+   "SOG_knots": 0.1,
+   "Time": "2026-07-29 00:03:38.759814"
+  },
+  {
+   "COG_degrees": 54.0,
+   "Latitude_degrees": 50.7432966666667,
+   "Longitude_degrees": -1.15229,
+   "MMSI": 235069877,
+   "SOG_knots": 21.8,
+   "Time": "2026-07-29 00:03:38.868814"
+  },
+  {
+   "COG_degrees": 47.4,
+   "Latitude_degrees": 50.8005566666667,
+   "Longitude_degrees": -1.11311666666667,
+   "MMSI": 235070762,
+   "SOG_knots": 1.7,
+   "Time": "2026-07-29 00:03:39.196814"
+  },
+  {
+   "COG_degrees": 143.7,
+   "Latitude_degrees": 50.7591666666667,
+   "Longitude_degrees": -1.09233333333333,
+   "MMSI": 235014661,
+   "SOG_knots": 21.5,
+   "Time": "2026-07-29 00:03:39.414814"
+  },
+  {
+   "COG_degrees": 95.1,
+   "Latitude_degrees": 50.7911666666667,
+   "Longitude_degrees": -1.1145,
+   "MMSI": 235013375,
+   "SOG_knots": 0.1,
+   "Time": "2026-07-29 00:03:39.523814"
+  },
+  {
+   "COG_degrees": 212.6,
+   "Latitude_degrees": 50.8170516666667,
+   "Longitude_degrees": -1.11901166666667,
+   "MMSI": 235099969,
+   "SOG_knots": 8.0,
+   "Time": "2026-07-29 00:03:39.851814"
+  },
+  {
+   "COG_degrees": 57.0,
+   "Latitude_degrees": 50.7728333333333,
+   "Longitude_degrees": -1.119,
+   "MMSI": 235031618,
+   "SOG_knots": 8.9,
+   "Time": "2026-07-29 00:03:40.615814"
+  },
+  {
+   "COG_degrees": 54.4,
+   "Latitude_degrees": 50.7434066666667,
+   "Longitude_degrees": -1.15203166666667,
+   "MMSI": 235069877,
+   "SOG_knots": 21.7,
+   "Time": "2026-07-29 00:03:40.615814"
+  },
+  {
+   "COG_degrees": 142.5,
+   "Latitude_degrees": 50.759,
+   "Longitude_degrees": -1.09216666666667,
+   "MMSI": 235014661,
+   "SOG_knots": 22.0,
+   "Time": "2026-07-29 00:03:41.052814"
+  },
+  {
+   "COG_degrees": 68.1,
+   "Latitude_degrees": 50.7972283333333,
+   "Longitude_degrees": -1.11254,
+   "MMSI": 235024149,
+   "SOG_knots": 8.3,
+   "Time": "2026-07-29 00:03:41.271814"
+  },
+  {
+   "COG_degrees": 84.0,
+   "Latitude_degrees": 50.8010166666667,
+   "Longitude_degrees": -1.1135,
+   "MMSI": 311855000,
+   "SOG_knots": 0.8,
+   "Time": "2026-07-29 00:03:41.271814"
+  },
+  {
+   "COG_degrees": 206.0,
+   "Latitude_degrees": 50.8072166666667,
+   "Longitude_degrees": -1.10390166666667,
+   "MMSI": 235074416,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:03:41.707814"
+  },
+  {
+   "COG_degrees": 171.4,
+   "Latitude_degrees": 50.7948583333333,
+   "Longitude_degrees": -1.11239,
+   "MMSI": 234586000,
+   "SOG_knots": 6.5,
+   "Time": "2026-07-29 00:03:41.817814"
+  },
+  {
+   "COG_degrees": 40.6,
+   "Latitude_degrees": 50.800575,
+   "Longitude_degrees": -1.11310166666667,
+   "MMSI": 235070762,
+   "SOG_knots": 1.8,
+   "Time": "2026-07-29 00:03:42.144814"
+  },
+  {
+   "COG_degrees": 174.0,
+   "Latitude_degrees": 50.7959166666667,
+   "Longitude_degrees": -1.1115,
+   "MMSI": 235061621,
+   "SOG_knots": 6.0,
+   "Time": "2026-07-29 00:03:42.581814"
+  },
+  {
+   "COG_degrees": 210.4,
+   "Latitude_degrees": 50.8169533333333,
+   "Longitude_degrees": -1.11909833333333,
+   "MMSI": 235099969,
+   "SOG_knots": 8.0,
+   "Time": "2026-07-29 00:03:42.799814"
+  },
+  {
+   "COG_degrees": 147.1,
+   "Latitude_degrees": 50.7588333333333,
+   "Longitude_degrees": -1.092,
+   "MMSI": 235014661,
+   "SOG_knots": 22.6,
+   "Time": "2026-07-29 00:03:43.018814"
+  },
+  {
+   "COG_degrees": 0.0,
+   "Latitude_degrees": 50.8069766666667,
+   "Longitude_degrees": -1.11583333333333,
+   "MMSI": 212890000,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:03:43.018814"
+  },
+  {
+   "COG_degrees": 170.0,
+   "Latitude_degrees": 50.801,
+   "Longitude_degrees": -1.11533333333333,
+   "MMSI": 235072757,
+   "SOG_knots": 2.6,
+   "Time": "2026-07-29 00:03:44.001814"
+  },
+  {
+   "COG_degrees": 105.4,
+   "Latitude_degrees": 50.7895933333333,
+   "Longitude_degrees": -1.12084,
+   "MMSI": 235086588,
+   "SOG_knots": 2.6,
+   "Time": "2026-07-29 00:03:44.547814"
+  },
+  {
+   "COG_degrees": 54.8,
+   "Latitude_degrees": 50.74358,
+   "Longitude_degrees": -1.15164333333333,
+   "MMSI": 235069877,
+   "SOG_knots": 21.7,
+   "Time": "2026-07-29 00:03:44.547814"
+  },
+  {
+   "COG_degrees": 71.9,
+   "Latitude_degrees": 50.7972583333333,
+   "Longitude_degrees": -1.11235833333333,
+   "MMSI": 235024149,
+   "SOG_knots": 8.4,
+   "Time": "2026-07-29 00:03:44.656814"
+  },
+  {
+   "COG_degrees": 160.1,
+   "Latitude_degrees": 50.7586666666667,
+   "Longitude_degrees": -1.09183333333333,
+   "MMSI": 235014661,
+   "SOG_knots": 23.2,
+   "Time": "2026-07-29 00:03:45.093814"
+  },
+  {
+   "COG_degrees": 178.0,
+   "Latitude_degrees": 50.7958333333333,
+   "Longitude_degrees": -1.11266666666667,
+   "MMSI": 235070763,
+   "SOG_knots": 6.4,
+   "Time": "2026-07-29 00:03:45.093814"
+  },
+  {
+   "COG_degrees": 275.2,
+   "Latitude_degrees": 50.7047716666667,
+   "Longitude_degrees": -1.03570166666667,
+   "MMSI": 247006000,
+   "SOG_knots": 0.1,
+   "Time": "2026-07-29 00:03:45.202814"
+  },
+  {
+   "COG_degrees": 360.0,
+   "Latitude_degrees": 50.80708,
+   "Longitude_degrees": -1.115545,
+   "MMSI": 235051664,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:03:45.420814"
+  },
+  {
+   "COG_degrees": 257.0,
+   "Latitude_degrees": 50.7982883333333,
+   "Longitude_degrees": -1.12210833333333,
+   "MMSI": 235109129,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:03:45.529814"
+  },
+  {
+   "COG_degrees": 35.4,
+   "Latitude_degrees": 50.8006,
+   "Longitude_degrees": -1.11305833333333,
+   "MMSI": 235070762,
+   "SOG_knots": 1.6,
+   "Time": "2026-07-29 00:03:45.748814"
+  },
+  {
+   "COG_degrees": 208.7,
+   "Latitude_degrees": 50.81682,
+   "Longitude_degrees": -1.11920666666667,
+   "MMSI": 235099969,
+   "SOG_knots": 8.0,
+   "Time": "2026-07-29 00:03:46.294814"
+  },
+  {
+   "COG_degrees": 75.0,
+   "Latitude_degrees": 50.8010166666667,
+   "Longitude_degrees": -1.11348333333333,
+   "MMSI": 311855000,
+   "SOG_knots": 0.7,
+   "Time": "2026-07-29 00:03:46.512814"
+  },
+  {
+   "COG_degrees": 305.0,
+   "Latitude_degrees": 50.7345,
+   "Longitude_degrees": -1.21316666666667,
+   "MMSI": 235031617,
+   "SOG_knots": 0.1,
+   "Time": "2026-07-29 00:03:47.058814"
+  },
+  {
+   "COG_degrees": 186.4,
+   "Latitude_degrees": 50.7959483333333,
+   "Longitude_degrees": -1.10917,
+   "MMSI": 235069875,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:03:47.167814"
+  },
+  {
+   "COG_degrees": 156.3,
+   "Latitude_degrees": 50.7583333333333,
+   "Longitude_degrees": -1.09166666666667,
+   "MMSI": 235014661,
+   "SOG_knots": 23.6,
+   "Time": "2026-07-29 00:03:47.167814"
+  },
+  {
+   "COG_degrees": 212.4,
+   "Latitude_degrees": 50.77341,
+   "Longitude_degrees": -1.19562833333333,
+   "MMSI": 232005270,
+   "SOG_knots": 9.2,
+   "Time": "2026-07-29 00:03:47.386814"
+  },
+  {
+   "COG_degrees": 74.7,
+   "Latitude_degrees": 50.7972816666667,
+   "Longitude_degrees": -1.11217,
+   "MMSI": 235024149,
+   "SOG_knots": 8.5,
+   "Time": "2026-07-29 00:03:48.041814"
+  },
+  {
+   "COG_degrees": 333.7,
+   "Latitude_degrees": 50.8141,
+   "Longitude_degrees": -1.09233333333333,
+   "MMSI": 245188000,
+   "SOG_knots": 0.2,
+   "Time": "2026-07-29 00:03:48.696814"
+  },
+  {
+   "COG_degrees": 39.8,
+   "Latitude_degrees": 50.8006083333333,
+   "Longitude_degrees": -1.11304333333333,
+   "MMSI": 235070762,
+   "SOG_knots": 1.4,
+   "Time": "2026-07-29 00:03:48.696814"
+  },
+  {
+   "COG_degrees": 207.8,
+   "Latitude_degrees": 50.8167533333333,
+   "Longitude_degrees": -1.119255,
+   "MMSI": 235099969,
+   "SOG_knots": 8.0,
+   "Time": "2026-07-29 00:03:48.696814"
+  },
+  {
+   "COG_degrees": 157.8,
+   "Latitude_degrees": 50.7581666666667,
+   "Longitude_degrees": -1.09166666666667,
+   "MMSI": 235014661,
+   "SOG_knots": 23.3,
+   "Time": "2026-07-29 00:03:49.024814"
+  },
+  {
+   "COG_degrees": 73.0,
+   "Latitude_degrees": 50.8010333333333,
+   "Longitude_degrees": -1.11346666666667,
+   "MMSI": 311855000,
+   "SOG_knots": 0.7,
+   "Time": "2026-07-29 00:03:49.133814"
+  },
+  {
+   "COG_degrees": 179.8,
+   "Latitude_degrees": 50.7992883333333,
+   "Longitude_degrees": -1.1191,
+   "MMSI": 235104062,
+   "SOG_knots": 0.1,
+   "Time": "2026-07-29 00:03:49.461814"
+  },
+  {
+   "COG_degrees": 57.0,
+   "Latitude_degrees": 50.773,
+   "Longitude_degrees": -1.1185,
+   "MMSI": 235031618,
+   "SOG_knots": 9.0,
+   "Time": "2026-07-29 00:03:49.679814"
+  },
+  {
+   "COG_degrees": 161.0,
+   "Latitude_degrees": 50.811405,
+   "Longitude_degrees": -1.09696166666667,
+   "MMSI": 227273000,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:03:49.679814"
+  },
+  {
+   "COG_degrees": 168.0,
+   "Latitude_degrees": 50.8008333333333,
+   "Longitude_degrees": -1.11533333333333,
+   "MMSI": 235072757,
+   "SOG_knots": 2.6,
+   "Time": "2026-07-29 00:03:50.007814"
+  },
+  {
+   "COG_degrees": 95.1,
+   "Latitude_degrees": 50.7911666666667,
+   "Longitude_degrees": -1.1145,
+   "MMSI": 235013375,
+   "SOG_knots": 0.1,
+   "Time": "2026-07-29 00:03:50.007814"
+  },
+  {
+   "COG_degrees": 55.6,
+   "Latitude_degrees": 50.7439766666667,
+   "Longitude_degrees": -1.15072833333333,
+   "MMSI": 235069877,
+   "SOG_knots": 21.7,
+   "Time": "2026-07-29 00:03:50.880814"
+  },
+  {
+   "COG_degrees": 77.2,
+   "Latitude_degrees": 50.7973016666667,
+   "Longitude_degrees": -1.11198,
+   "MMSI": 235024149,
+   "SOG_knots": 8.6,
+   "Time": "2026-07-29 00:03:50.989814"
+  },
+  {
+   "COG_degrees": 161.5,
+   "Latitude_degrees": 50.758,
+   "Longitude_degrees": -1.0915,
+   "MMSI": 235014661,
+   "SOG_knots": 22.5,
+   "Time": "2026-07-29 00:03:51.317814"
+  },
+  {
+   "COG_degrees": 67.0,
+   "Latitude_degrees": 50.8010333333333,
+   "Longitude_degrees": -1.11345,
+   "MMSI": 311855000,
+   "SOG_knots": 0.7,
+   "Time": "2026-07-29 00:03:51.972814"
+  },
+  {
+   "COG_degrees": 252.1,
+   "Latitude_degrees": 50.7954933333333,
+   "Longitude_degrees": -1.109975,
+   "MMSI": 235064777,
+   "SOG_knots": 0.2,
+   "Time": "2026-07-29 00:03:51.972814"
+  },
+  {
+   "COG_degrees": 65.7,
+   "Latitude_degrees": 50.8006033333333,
+   "Longitude_degrees": -1.11303,
+   "MMSI": 235070762,
+   "SOG_knots": 1.0,
+   "Time": "2026-07-29 00:03:52.081814"
+  },
+  {
+   "COG_degrees": 171.0,
+   "Latitude_degrees": 50.7945466666667,
+   "Longitude_degrees": -1.11227666666667,
+   "MMSI": 234586000,
+   "SOG_knots": 6.6,
+   "Time": "2026-07-29 00:03:52.081814"
+  },
+  {
+   "COG_degrees": 206.0,
+   "Latitude_degrees": 50.80722,
+   "Longitude_degrees": -1.10387166666667,
+   "MMSI": 235074416,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:03:52.191814"
+  },
+  {
+   "COG_degrees": 0.0,
+   "Latitude_degrees": 50.806975,
+   "Longitude_degrees": -1.11583333333333,
+   "MMSI": 212890000,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:03:52.737814"
+  },
+  {
+   "COG_degrees": 173.0,
+   "Latitude_degrees": 50.7956333333333,
+   "Longitude_degrees": -1.11143333333333,
+   "MMSI": 235061621,
+   "SOG_knots": 6.0,
+   "Time": "2026-07-29 00:03:52.846814"
+  },
+  {
+   "COG_degrees": 207.6,
+   "Latitude_degrees": 50.81662,
+   "Longitude_degrees": -1.11936333333333,
+   "MMSI": 235099969,
+   "SOG_knots": 8.0,
+   "Time": "2026-07-29 00:03:53.283814"
+  },
+  {
+   "COG_degrees": 173.0,
+   "Latitude_degrees": 50.7935866666667,
+   "Longitude_degrees": -1.11261333333333,
+   "MMSI": 232002939,
+   "SOG_knots": 8.0,
+   "Time": "2026-07-29 00:03:53.283814"
+  },
+  {
+   "COG_degrees": 155.3,
+   "Latitude_degrees": 50.7578333333333,
+   "Longitude_degrees": -1.09133333333333,
+   "MMSI": 235014661,
+   "SOG_knots": 22.4,
+   "Time": "2026-07-29 00:03:53.392814"
+  },
+  {
+   "COG_degrees": 166.0,
+   "Latitude_degrees": 50.8008333333333,
+   "Longitude_degrees": -1.11533333333333,
+   "MMSI": 235072757,
+   "SOG_knots": 2.5,
+   "Time": "2026-07-29 00:03:53.392814"
+  },
+  {
+   "COG_degrees": 173.0,
+   "Latitude_degrees": 50.7955,
+   "Longitude_degrees": -1.11266666666667,
+   "MMSI": 235070763,
+   "SOG_knots": 6.4,
+   "Time": "2026-07-29 00:03:54.484814"
+  },
+  {
+   "COG_degrees": 65.0,
+   "Latitude_degrees": 50.8010333333333,
+   "Longitude_degrees": -1.11345,
+   "MMSI": 311855000,
+   "SOG_knots": 0.7,
+   "Time": "2026-07-29 00:03:54.593814"
+  },
+  {
+   "COG_degrees": 80.1,
+   "Latitude_degrees": 50.7973216666667,
+   "Longitude_degrees": -1.11172666666667,
+   "MMSI": 235024149,
+   "SOG_knots": 8.7,
+   "Time": "2026-07-29 00:03:54.921814"
+  },
+  {
+   "COG_degrees": 156.5,
+   "Latitude_degrees": 50.7576666666667,
+   "Longitude_degrees": -1.09133333333333,
+   "MMSI": 235014661,
+   "SOG_knots": 23.2,
+   "Time": "2026-07-29 00:03:55.248814"
+  },
+  {
+   "COG_degrees": 360.0,
+   "Latitude_degrees": 50.80708,
+   "Longitude_degrees": -1.11554166666667,
+   "MMSI": 235051664,
+   "SOG_knots": 0.1,
+   "Time": "2026-07-29 00:03:55.248814"
+  },
+  {
+   "COG_degrees": 61.7,
+   "Latitude_degrees": 50.80062,
+   "Longitude_degrees": -1.11297333333333,
+   "MMSI": 235070762,
+   "SOG_knots": 1.3,
+   "Time": "2026-07-29 00:03:55.685814"
+  },
+  {
+   "COG_degrees": 119.6,
+   "Latitude_degrees": 50.7642433333333,
+   "Longitude_degrees": -1.15579333333333,
+   "MMSI": 247007000,
+   "SOG_knots": 10.7,
+   "Time": "2026-07-29 00:03:55.685814"
+  },
+  {
+   "COG_degrees": 104.2,
+   "Latitude_degrees": 50.7895533333333,
+   "Longitude_degrees": -1.120625,
+   "MMSI": 235086588,
+   "SOG_knots": 2.8,
+   "Time": "2026-07-29 00:03:56.013814"
+  },
+  {
+   "COG_degrees": 164.0,
+   "Latitude_degrees": 50.8008333333333,
+   "Longitude_degrees": -1.11533333333333,
+   "MMSI": 235072757,
+   "SOG_knots": 2.6,
+   "Time": "2026-07-29 00:03:56.340814"
+  },
+  {
+   "COG_degrees": 56.4,
+   "Latitude_degrees": 50.7442466666667,
+   "Longitude_degrees": -1.15007,
+   "MMSI": 235069877,
+   "SOG_knots": 21.5,
+   "Time": "2026-07-29 00:03:56.449814"
+  },
+  {
+   "COG_degrees": 258.1,
+   "Latitude_degrees": 50.7982783333333,
+   "Longitude_degrees": -1.12212333333333,
+   "MMSI": 235109129,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:03:56.668814"
+  },
+  {
+   "COG_degrees": 160.3,
+   "Latitude_degrees": 50.7575,
+   "Longitude_degrees": -1.09116666666667,
+   "MMSI": 235014661,
+   "SOG_knots": 24.0,
+   "Time": "2026-07-29 00:03:57.105814"
+  },
+  {
+   "COG_degrees": 207.4,
+   "Latitude_degrees": 50.8164883333333,
+   "Longitude_degrees": -1.11946833333333,
+   "MMSI": 235099969,
+   "SOG_knots": 8.0,
+   "Time": "2026-07-29 00:03:57.214814"
+  },
+  {
+   "COG_degrees": 196.6,
+   "Latitude_degrees": 50.8018933333333,
+   "Longitude_degrees": -1.12277166666667,
+   "MMSI": 235105058,
+   "SOG_knots": 0.1,
+   "Time": "2026-07-29 00:03:58.087814"
+  },
+  {
+   "COG_degrees": 216.6,
+   "Latitude_degrees": 50.8141,
+   "Longitude_degrees": -1.09233333333333,
+   "MMSI": 245188000,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:03:58.087814"
+  },
+  {
+   "COG_degrees": 327.0,
+   "Latitude_degrees": 50.7345,
+   "Longitude_degrees": -1.21316666666667,
+   "MMSI": 235031617,
+   "SOG_knots": 0.1,
+   "Time": "2026-07-29 00:03:58.306814"
+  },
+  {
+   "COG_degrees": 37.0,
+   "Latitude_degrees": 50.8006483333333,
+   "Longitude_degrees": -1.112955,
+   "MMSI": 235070762,
+   "SOG_knots": 1.7,
+   "Time": "2026-07-29 00:03:58.524814"
+  },
+  {
+   "COG_degrees": 97.9,
+   "Latitude_degrees": 50.8069183333333,
+   "Longitude_degrees": -1.11567666666667,
+   "MMSI": 235005246,
+   "SOG_knots": 0.2,
+   "Time": "2026-07-29 00:03:58.524814"
+  },
+  {
+   "COG_degrees": 95.1,
+   "Latitude_degrees": 50.7911666666667,
+   "Longitude_degrees": -1.1145,
+   "MMSI": 235013375,
+   "SOG_knots": 0.2,
+   "Time": "2026-07-29 00:03:58.633814"
+  },
+  {
+   "COG_degrees": 56.0,
+   "Latitude_degrees": 50.8010333333333,
+   "Longitude_degrees": -1.11345,
+   "MMSI": 311855000,
+   "SOG_knots": 0.7,
+   "Time": "2026-07-29 00:03:58.852814"
+  },
+  {
+   "COG_degrees": 206.8,
+   "Latitude_degrees": 50.8164216666667,
+   "Longitude_degrees": -1.11952,
+   "MMSI": 235099969,
+   "SOG_knots": 8.0,
+   "Time": "2026-07-29 00:03:59.070814"
+  },
+  {
+   "COG_degrees": 187.0,
+   "Latitude_degrees": 50.7977916666667,
+   "Longitude_degrees": -1.11653833333333,
+   "MMSI": 235074703,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:03:59.179814"
+  },
+  {
+   "COG_degrees": 162.4,
+   "Latitude_degrees": 50.7571666666667,
+   "Longitude_degrees": -1.091,
+   "MMSI": 235014661,
+   "SOG_knots": 24.3,
+   "Time": "2026-07-29 00:03:59.289814"
+  },
+  {
+   "COG_degrees": 307.0,
+   "Latitude_degrees": 50.811405,
+   "Longitude_degrees": -1.09696166666667,
+   "MMSI": 227273000,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:03:59.398814"
+  },
+  {
+   "COG_degrees": 85.1,
+   "Latitude_degrees": 50.79733,
+   "Longitude_degrees": -1.11140333333333,
+   "MMSI": 235024149,
+   "SOG_knots": 8.8,
+   "Time": "2026-07-29 00:03:59.507814"
+  },
+  {
+   "COG_degrees": 266.1,
+   "Latitude_degrees": 50.7959483333333,
+   "Longitude_degrees": -1.10917333333333,
+   "MMSI": 235069875,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:03:59.616814"
+  },
+  {
+   "COG_degrees": 115.7,
+   "Latitude_degrees": 50.766545,
+   "Longitude_degrees": -1.13425166666667,
+   "MMSI": 235082557,
+   "SOG_knots": 3.9,
+   "Time": "2026-07-29 00:03:59.725814"
+  },
+  {
+   "COG_degrees": 164.0,
+   "Latitude_degrees": 50.8008333333333,
+   "Longitude_degrees": -1.11533333333333,
+   "MMSI": 235072757,
+   "SOG_knots": 2.5,
+   "Time": "2026-07-29 00:03:59.944814"
+  },
+  {
+   "COG_degrees": 52.0,
+   "Latitude_degrees": 50.80105,
+   "Longitude_degrees": -1.11343333333333,
+   "MMSI": 311855000,
+   "SOG_knots": 0.7,
+   "Time": "2026-07-29 00:04:00.927814"
+  },
+  {
+   "COG_degrees": 206.0,
+   "Latitude_degrees": 50.8072183333333,
+   "Longitude_degrees": -1.10387,
+   "MMSI": 235074416,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:04:00.927814"
+  },
+  {
+   "COG_degrees": 170.0,
+   "Latitude_degrees": 50.7953333333333,
+   "Longitude_degrees": -1.1125,
+   "MMSI": 235070763,
+   "SOG_knots": 6.5,
+   "Time": "2026-07-29 00:04:01.145814"
+  },
+  {
+   "COG_degrees": 57.0,
+   "Latitude_degrees": 50.7733333333333,
+   "Longitude_degrees": -1.11783333333333,
+   "MMSI": 235031618,
+   "SOG_knots": 9.2,
+   "Time": "2026-07-29 00:04:01.254814"
+  },
+  {
+   "COG_degrees": 156.1,
+   "Latitude_degrees": 50.757,
+   "Longitude_degrees": -1.09083333333333,
+   "MMSI": 235014661,
+   "SOG_knots": 24.1,
+   "Time": "2026-07-29 00:04:01.363814"
+  },
+  {
+   "COG_degrees": 171.9,
+   "Latitude_degrees": 50.7942916666667,
+   "Longitude_degrees": -1.11226,
+   "MMSI": 234586000,
+   "SOG_knots": 6.7,
+   "Time": "2026-07-29 00:04:01.473814"
+  },
+  {
+   "COG_degrees": 57.9,
+   "Latitude_degrees": 50.74456,
+   "Longitude_degrees": -1.14926833333333,
+   "MMSI": 235069877,
+   "SOG_knots": 21.4,
+   "Time": "2026-07-29 00:04:01.800814"
+  },
+  {
+   "COG_degrees": 7.6,
+   "Latitude_degrees": 50.8006733333333,
+   "Longitude_degrees": -1.11297333333333,
+   "MMSI": 235070762,
+   "SOG_knots": 1.7,
+   "Time": "2026-07-29 00:04:01.909814"
+  },
+  {
+   "COG_degrees": 86.2,
+   "Latitude_degrees": 50.7973316666667,
+   "Longitude_degrees": -1.11121333333333,
+   "MMSI": 235024149,
+   "SOG_knots": 8.7,
+   "Time": "2026-07-29 00:04:02.237814"
+  },
+  {
+   "COG_degrees": 137.0,
+   "Latitude_degrees": 50.7947166666667,
+   "Longitude_degrees": -1.108705,
+   "MMSI": 235010000,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:04:02.346814"
+  },
+  {
+   "COG_degrees": 126.5,
+   "Latitude_degrees": 50.7987466666667,
+   "Longitude_degrees": -1.12027,
+   "MMSI": 235109172,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:04:02.346814"
+  },
+  {
+   "COG_degrees": 76.9,
+   "Latitude_degrees": 50.806975,
+   "Longitude_degrees": -1.11582,
+   "MMSI": 212890000,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:04:02.892814"
+  },
+  {
+   "COG_degrees": 156.8,
+   "Latitude_degrees": 50.7568333333333,
+   "Longitude_degrees": -1.09066666666667,
+   "MMSI": 235014661,
+   "SOG_knots": 23.6,
+   "Time": "2026-07-29 00:04:03.111814"
+  },
+  {
+   "COG_degrees": 57.9,
+   "Latitude_degrees": 50.7446116666667,
+   "Longitude_degrees": -1.14913666666667,
+   "MMSI": 235069877,
+   "SOG_knots": 21.4,
+   "Time": "2026-07-29 00:04:03.220814"
+  },
+  {
+   "COG_degrees": 171.0,
+   "Latitude_degrees": 50.7953,
+   "Longitude_degrees": -1.11136666666667,
+   "MMSI": 235061621,
+   "SOG_knots": 6.0,
+   "Time": "2026-07-29 00:04:03.547814"
+  },
+  {
+   "COG_degrees": 163.0,
+   "Latitude_degrees": 50.8006666666667,
+   "Longitude_degrees": -1.11533333333333,
+   "MMSI": 235072757,
+   "SOG_knots": 2.4,
+   "Time": "2026-07-29 00:04:03.766814"
+  },
+  {
+   "COG_degrees": 205.7,
+   "Latitude_degrees": 50.8162516666667,
+   "Longitude_degrees": -1.11964166666667,
+   "MMSI": 235099969,
+   "SOG_knots": 8.1,
+   "Time": "2026-07-29 00:04:03.875814"
+  },
+  {
+   "COG_degrees": 169.0,
+   "Latitude_degrees": 50.7951666666667,
+   "Longitude_degrees": -1.1125,
+   "MMSI": 235070763,
+   "SOG_knots": 6.5,
+   "Time": "2026-07-29 00:04:04.421814"
+  },
+  {
+   "COG_degrees": 88.2,
+   "Latitude_degrees": 50.7973283333333,
+   "Longitude_degrees": -1.11109,
+   "MMSI": 235024149,
+   "SOG_knots": 8.6,
+   "Time": "2026-07-29 00:04:04.858814"
+  },
+  {
+   "COG_degrees": 94.4,
+   "Latitude_degrees": 50.7895366666667,
+   "Longitude_degrees": -1.12043833333333,
+   "MMSI": 235086588,
+   "SOG_knots": 3.0,
+   "Time": "2026-07-29 00:04:05.185814"
+  },
+  {
+   "COG_degrees": 153.4,
+   "Latitude_degrees": 50.7566666666667,
+   "Longitude_degrees": -1.09066666666667,
+   "MMSI": 235014661,
+   "SOG_knots": 23.1,
+   "Time": "2026-07-29 00:04:05.295814"
+  },
+  {
+   "COG_degrees": 360.0,
+   "Latitude_degrees": 50.80708,
+   "Longitude_degrees": -1.11554166666667,
+   "MMSI": 235051664,
+   "SOG_knots": 0.1,
+   "Time": "2026-07-29 00:04:05.404814"
+  },
+  {
+   "COG_degrees": 8.1,
+   "Latitude_degrees": 50.8007166666667,
+   "Longitude_degrees": -1.11295333333333,
+   "MMSI": 235070762,
+   "SOG_knots": 2.1,
+   "Time": "2026-07-29 00:04:05.513814"
+  },
+  {
+   "COG_degrees": 205.4,
+   "Latitude_degrees": 50.816185,
+   "Longitude_degrees": -1.119695,
+   "MMSI": 235099969,
+   "SOG_knots": 8.1,
+   "Time": "2026-07-29 00:04:05.731814"
+  },
+  {
+   "COG_degrees": 43.0,
+   "Latitude_degrees": 50.8010666666667,
+   "Longitude_degrees": -1.11343333333333,
+   "MMSI": 311855000,
+   "SOG_knots": 0.6,
+   "Time": "2026-07-29 00:04:06.277814"
+  },
+  {
+   "COG_degrees": 59.0,
+   "Latitude_degrees": 50.7345,
+   "Longitude_degrees": -1.21316666666667,
+   "MMSI": 235031617,
+   "SOG_knots": 0.1,
+   "Time": "2026-07-29 00:04:06.605814"
+  },
+  {
+   "COG_degrees": 257.5,
+   "Latitude_degrees": 50.7982866666667,
+   "Longitude_degrees": -1.12212166666667,
+   "MMSI": 235109129,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:04:06.605814"
+  },
+  {
+   "COG_degrees": 165.0,
+   "Latitude_degrees": 50.8006666666667,
+   "Longitude_degrees": -1.11533333333333,
+   "MMSI": 235072757,
+   "SOG_knots": 2.2,
+   "Time": "2026-07-29 00:04:06.605814"
+  },
+  {
+   "COG_degrees": 148.1,
+   "Latitude_degrees": 50.7565,
+   "Longitude_degrees": -1.0905,
+   "MMSI": 235014661,
+   "SOG_knots": 22.6,
+   "Time": "2026-07-29 00:04:07.260814"
+  },
+  {
+   "COG_degrees": 40.0,
+   "Latitude_degrees": 50.8010666666667,
+   "Longitude_degrees": -1.11343333333333,
+   "MMSI": 311855000,
+   "SOG_knots": 0.6,
+   "Time": "2026-07-29 00:04:08.134814"
+  },
+  {
+   "COG_degrees": 187.0,
+   "Latitude_degrees": 50.797805,
+   "Longitude_degrees": -1.11656,
+   "MMSI": 235074703,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:04:08.243814"
+  },
+  {
+   "COG_degrees": 169.0,
+   "Latitude_degrees": 50.7951666666667,
+   "Longitude_degrees": -1.1125,
+   "MMSI": 235070763,
+   "SOG_knots": 6.5,
+   "Time": "2026-07-29 00:04:08.243814"
+  },
+  {
+   "COG_degrees": 58.3,
+   "Latitude_degrees": 50.7448683333333,
+   "Longitude_degrees": -1.14847166666667,
+   "MMSI": 235069877,
+   "SOG_knots": 21.3,
+   "Time": "2026-07-29 00:04:08.352814"
+  },
+  {
+   "COG_degrees": 142.1,
+   "Latitude_degrees": 50.7563333333333,
+   "Longitude_degrees": -1.09016666666667,
+   "MMSI": 235014661,
+   "SOG_knots": 22.7,
+   "Time": "2026-07-29 00:04:09.007814"
+  },
+  {
+   "COG_degrees": 318.0,
+   "Latitude_degrees": 50.811405,
+   "Longitude_degrees": -1.09696166666667,
+   "MMSI": 227273000,
+   "SOG_knots": 0.1,
+   "Time": "2026-07-29 00:04:09.226814"
+  },
+  {
+   "COG_degrees": 95.1,
+   "Latitude_degrees": 50.7911666666667,
+   "Longitude_degrees": -1.1145,
+   "MMSI": 235013375,
+   "SOG_knots": 0.1,
+   "Time": "2026-07-29 00:04:09.226814"
+  },
+  {
+   "COG_degrees": 96.6,
+   "Latitude_degrees": 50.8141,
+   "Longitude_degrees": -1.09233333333333,
+   "MMSI": 245188000,
+   "SOG_knots": 0.1,
+   "Time": "2026-07-29 00:04:09.335814"
+  },
+  {
+   "COG_degrees": 204.6,
+   "Latitude_degrees": 50.8160466666667,
+   "Longitude_degrees": -1.119785,
+   "MMSI": 235099969,
+   "SOG_knots": 8.0,
+   "Time": "2026-07-29 00:04:09.335814"
+  },
+  {
+   "COG_degrees": 91.0,
+   "Latitude_degrees": 50.79732,
+   "Longitude_degrees": -1.110795,
+   "MMSI": 235024149,
+   "SOG_knots": 8.3,
+   "Time": "2026-07-29 00:04:09.444814"
+  },
+  {
+   "COG_degrees": 204.6,
+   "Latitude_degrees": 50.8160466666667,
+   "Longitude_degrees": -1.119785,
+   "MMSI": 235099969,
+   "SOG_knots": 8.0,
+   "Time": "2026-07-29 00:04:09.663814"
+  },
+  {
+   "COG_degrees": 359.4,
+   "Latitude_degrees": 50.800745,
+   "Longitude_degrees": -1.11297166666667,
+   "MMSI": 235070762,
+   "SOG_knots": 1.9,
+   "Time": "2026-07-29 00:04:09.881814"
+  },
+  {
+   "COG_degrees": 166.0,
+   "Latitude_degrees": 50.8006666666667,
+   "Longitude_degrees": -1.11533333333333,
+   "MMSI": 235072757,
+   "SOG_knots": 2.1,
+   "Time": "2026-07-29 00:04:09.990814"
+  },
+  {
+   "COG_degrees": 58.0,
+   "Latitude_degrees": 50.7735,
+   "Longitude_degrees": -1.11733333333333,
+   "MMSI": 235031618,
+   "SOG_knots": 9.2,
+   "Time": "2026-07-29 00:04:10.755814"
+  },
+  {
+   "COG_degrees": 91.5,
+   "Latitude_degrees": 50.7973183333333,
+   "Longitude_degrees": -1.11074,
+   "MMSI": 235024149,
+   "SOG_knots": 8.2,
+   "Time": "2026-07-29 00:04:10.973814"
+  },
+  {
+   "COG_degrees": 150.0,
+   "Latitude_degrees": 50.7561666666667,
+   "Longitude_degrees": -1.09,
+   "MMSI": 235014661,
+   "SOG_knots": 22.4,
+   "Time": "2026-07-29 00:04:11.082814"
+  },
+  {
+   "COG_degrees": 170.0,
+   "Latitude_degrees": 50.795,
+   "Longitude_degrees": -1.1125,
+   "MMSI": 235070763,
+   "SOG_knots": 6.5,
+   "Time": "2026-07-29 00:04:11.301814"
+  },
+  {
+   "COG_degrees": 117.6,
+   "Latitude_degrees": 50.7959433333333,
+   "Longitude_degrees": -1.109165,
+   "MMSI": 235069875,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:04:11.410814"
+  },
+  {
+   "COG_degrees": 173.0,
+   "Latitude_degrees": 50.7938916666667,
+   "Longitude_degrees": -1.11218833333333,
+   "MMSI": 234586000,
+   "SOG_knots": 7.3,
+   "Time": "2026-07-29 00:04:11.847814"
+  },
+  {
+   "COG_degrees": 206.0,
+   "Latitude_degrees": 50.80722,
+   "Longitude_degrees": -1.10387166666667,
+   "MMSI": 235074416,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:04:12.283814"
+  },
+  {
+   "COG_degrees": 352.1,
+   "Latitude_degrees": 50.8007616666667,
+   "Longitude_degrees": -1.113,
+   "MMSI": 235070762,
+   "SOG_knots": 1.8,
+   "Time": "2026-07-29 00:04:12.502814"
+  },
+  {
+   "COG_degrees": 34.0,
+   "Latitude_degrees": 50.8010833333333,
+   "Longitude_degrees": -1.11343333333333,
+   "MMSI": 311855000,
+   "SOG_knots": 0.6,
+   "Time": "2026-07-29 00:04:12.502814"
+  },
+  {
+   "COG_degrees": 174.0,
+   "Latitude_degrees": 50.7928766666667,
+   "Longitude_degrees": -1.11245833333333,
+   "MMSI": 232002939,
+   "SOG_knots": 7.5,
+   "Time": "2026-07-29 00:04:12.720814"
+  },
+  {
+   "COG_degrees": 170.0,
+   "Latitude_degrees": 50.7950666666667,
+   "Longitude_degrees": -1.1113,
+   "MMSI": 235061621,
+   "SOG_knots": 6.1,
+   "Time": "2026-07-29 00:04:12.829814"
+  },
+  {
+   "COG_degrees": 155.1,
+   "Latitude_degrees": 50.756,
+   "Longitude_degrees": -1.08983333333333,
+   "MMSI": 235014661,
+   "SOG_knots": 22.5,
+   "Time": "2026-07-29 00:04:13.048814"
+  },
+  {
+   "COG_degrees": 0.0,
+   "Latitude_degrees": 50.80697,
+   "Longitude_degrees": -1.11580833333333,
+   "MMSI": 212890000,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:04:13.266814"
+  },
+  {
+   "COG_degrees": 202.8,
+   "Latitude_degrees": 50.8159033333333,
+   "Longitude_degrees": -1.11987,
+   "MMSI": 235099969,
+   "SOG_knots": 8.1,
+   "Time": "2026-07-29 00:04:13.375814"
+  },
+  {
+   "COG_degrees": 169.0,
+   "Latitude_degrees": 50.8006666666667,
+   "Longitude_degrees": -1.11533333333333,
+   "MMSI": 235072757,
+   "SOG_knots": 1.9,
+   "Time": "2026-07-29 00:04:13.812814"
+  },
+  {
+   "COG_degrees": 170.0,
+   "Latitude_degrees": 50.795,
+   "Longitude_degrees": -1.1125,
+   "MMSI": 235070763,
+   "SOG_knots": 6.5,
+   "Time": "2026-07-29 00:04:14.686814"
+  },
+  {
+   "COG_degrees": 31.0,
+   "Latitude_degrees": 50.8010833333333,
+   "Longitude_degrees": -1.11343333333333,
+   "MMSI": 311855000,
+   "SOG_knots": 0.5,
+   "Time": "2026-07-29 00:04:15.232814"
+  },
+  {
+   "COG_degrees": 96.6,
+   "Latitude_degrees": 50.78952,
+   "Longitude_degrees": -1.12021666666667,
+   "MMSI": 235086588,
+   "SOG_knots": 3.1,
+   "Time": "2026-07-29 00:04:15.232814"
+  },
+  {
+   "COG_degrees": 157.2,
+   "Latitude_degrees": 50.7558333333333,
+   "Longitude_degrees": -1.08983333333333,
+   "MMSI": 235014661,
+   "SOG_knots": 22.2,
+   "Time": "2026-07-29 00:04:15.341814"
+  },
+  {
+   "COG_degrees": 344.9,
+   "Latitude_degrees": 50.80078,
+   "Longitude_degrees": -1.11301666666667,
+   "MMSI": 235070762,
+   "SOG_knots": 1.7,
+   "Time": "2026-07-29 00:04:15.450814"
+  },
+  {
+   "COG_degrees": 57.1,
+   "Latitude_degrees": 50.74525,
+   "Longitude_degrees": -1.14756166666667,
+   "MMSI": 235069877,
+   "SOG_knots": 21.4,
+   "Time": "2026-07-29 00:04:15.450814"
+  },
+  {
+   "COG_degrees": 95.0,
+   "Latitude_degrees": 50.797295,
+   "Longitude_degrees": -1.11047333333333,
+   "MMSI": 235024149,
+   "SOG_knots": 7.7,
+   "Time": "2026-07-29 00:04:15.778814"
+  },
+  {
+   "COG_degrees": 240.1,
+   "Latitude_degrees": 50.79616,
+   "Longitude_degrees": -1.11609,
+   "MMSI": 235003665,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:04:16.105814"
+  },
+  {
+   "COG_degrees": 0.0,
+   "Latitude_degrees": 50.8248883333333,
+   "Longitude_degrees": -1.04144,
+   "MMSI": 232003387,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:04:16.324814"
+  },
+  {
+   "COG_degrees": 164.0,
+   "Latitude_degrees": 50.8006666666667,
+   "Longitude_degrees": -1.11533333333333,
+   "MMSI": 235072757,
+   "SOG_knots": 1.6,
+   "Time": "2026-07-29 00:04:16.542814"
+  },
+  {
+   "COG_degrees": 261.4,
+   "Latitude_degrees": 50.7982966666667,
+   "Longitude_degrees": -1.12213666666667,
+   "MMSI": 235109129,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:04:16.979814"
+  },
+  {
+   "COG_degrees": 29.2,
+   "Latitude_degrees": 50.800845,
+   "Longitude_degrees": -1.29722333333333,
+   "MMSI": 235006680,
+   "SOG_knots": 11.2,
+   "Time": "2026-07-29 00:04:17.088814"
+  },
+  {
+   "COG_degrees": 155.0,
+   "Latitude_degrees": 50.7555,
+   "Longitude_degrees": -1.08966666666667,
+   "MMSI": 235014661,
+   "SOG_knots": 22.0,
+   "Time": "2026-07-29 00:04:17.307814"
+  },
+  {
+   "COG_degrees": 27.0,
+   "Latitude_degrees": 50.7345,
+   "Longitude_degrees": -1.21316666666667,
+   "MMSI": 235031617,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:04:17.525814"
+  },
+  {
+   "COG_degrees": 170.0,
+   "Latitude_degrees": 50.7948333333333,
+   "Longitude_degrees": -1.11233333333333,
+   "MMSI": 235070763,
+   "SOG_knots": 6.5,
+   "Time": "2026-07-29 00:04:17.853814"
+  },
+  {
+   "COG_degrees": 324.4,
+   "Latitude_degrees": 50.8141,
+   "Longitude_degrees": -1.09233333333333,
+   "MMSI": 245188000,
+   "SOG_knots": 0.1,
+   "Time": "2026-07-29 00:04:18.071814"
+  },
+  {
+   "COG_degrees": 24.0,
+   "Latitude_degrees": 50.8011,
+   "Longitude_degrees": -1.11343333333333,
+   "MMSI": 311855000,
+   "SOG_knots": 0.5,
+   "Time": "2026-07-29 00:04:18.399814"
+  },
+  {
+   "COG_degrees": 187.0,
+   "Latitude_degrees": 50.7977916666667,
+   "Longitude_degrees": -1.11656833333333,
+   "MMSI": 235074703,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:04:18.726814"
+  },
+  {
+   "COG_degrees": 95.1,
+   "Latitude_degrees": 50.7911666666667,
+   "Longitude_degrees": -1.1145,
+   "MMSI": 235013375,
+   "SOG_knots": 0.1,
+   "Time": "2026-07-29 00:04:19.163814"
+  },
+  {
+   "COG_degrees": 153.8,
+   "Latitude_degrees": 50.7553333333333,
+   "Longitude_degrees": -1.0895,
+   "MMSI": 235014661,
+   "SOG_knots": 22.0,
+   "Time": "2026-07-29 00:04:19.272814"
+  },
+  {
+   "COG_degrees": 2.3,
+   "Latitude_degrees": 50.80082,
+   "Longitude_degrees": -1.11297166666667,
+   "MMSI": 235070762,
+   "SOG_knots": 1.8,
+   "Time": "2026-07-29 00:04:19.487814"
+  },
+  {
+   "COG_degrees": 346.0,
+   "Latitude_degrees": 50.8114033333333,
+   "Longitude_degrees": -1.09696,
+   "MMSI": 227273000,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:04:19.706814"
+  },
+  {
+   "COG_degrees": 199.9,
+   "Latitude_degrees": 50.815655,
+   "Longitude_degrees": -1.12000833333333,
+   "MMSI": 235099969,
+   "SOG_knots": 8.1,
+   "Time": "2026-07-29 00:04:20.470814"
+  },
+  {
+   "COG_degrees": 57.7,
+   "Latitude_degrees": 50.7455016666667,
+   "Longitude_degrees": -1.146925,
+   "MMSI": 235069877,
+   "SOG_knots": 20.8,
+   "Time": "2026-07-29 00:04:20.579814"
+  },
+  {
+   "COG_degrees": 57.0,
+   "Latitude_degrees": 50.7738333333333,
+   "Longitude_degrees": -1.11666666666667,
+   "MMSI": 235031618,
+   "SOG_knots": 9.2,
+   "Time": "2026-07-29 00:04:20.579814"
+  },
+  {
+   "COG_degrees": 154.9,
+   "Latitude_degrees": 50.7551666666667,
+   "Longitude_degrees": -1.08933333333333,
+   "MMSI": 235014661,
+   "SOG_knots": 21.6,
+   "Time": "2026-07-29 00:04:21.016814"
+  },
+  {
+   "COG_degrees": 206.0,
+   "Latitude_degrees": 50.80722,
+   "Longitude_degrees": -1.10387,
+   "MMSI": 235074416,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:04:21.125814"
+  },
+  {
+   "COG_degrees": 20.0,
+   "Latitude_degrees": 50.8011166666667,
+   "Longitude_degrees": -1.11343333333333,
+   "MMSI": 311855000,
+   "SOG_knots": 0.5,
+   "Time": "2026-07-29 00:04:21.344814"
+  },
+  {
+   "COG_degrees": 0.0,
+   "Latitude_degrees": 50.806965,
+   "Longitude_degrees": -1.115815,
+   "MMSI": 212890000,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:04:21.780814"
+  },
+  {
+   "COG_degrees": 98.9,
+   "Latitude_degrees": 50.7972533333333,
+   "Longitude_degrees": -1.11018666666667,
+   "MMSI": 235024149,
+   "SOG_knots": 7.1,
+   "Time": "2026-07-29 00:04:21.890814"
+  },
+  {
+   "COG_degrees": 199.9,
+   "Latitude_degrees": 50.8156183333333,
+   "Longitude_degrees": -1.12002333333333,
+   "MMSI": 235099969,
+   "SOG_knots": 8.1,
+   "Time": "2026-07-29 00:04:21.999814"
+  },
+  {
+   "COG_degrees": 2.5,
+   "Latitude_degrees": 50.800845,
+   "Longitude_degrees": -1.11299833333333,
+   "MMSI": 235070762,
+   "SOG_knots": 1.9,
+   "Time": "2026-07-29 00:04:22.326814"
+  },
+  {
+   "COG_degrees": 172.3,
+   "Latitude_degrees": 50.79355,
+   "Longitude_degrees": -1.11212,
+   "MMSI": 234586000,
+   "SOG_knots": 7.8,
+   "Time": "2026-07-29 00:04:22.654814"
+  },
+  {
+   "COG_degrees": 286.2,
+   "Latitude_degrees": 50.8058516666667,
+   "Longitude_degrees": -1.10462833333333,
+   "MMSI": 232002833,
+   "SOG_knots": 0.5,
+   "Time": "2026-07-29 00:04:22.763814"
+  },
+  {
+   "COG_degrees": 149.8,
+   "Latitude_degrees": 50.755,
+   "Longitude_degrees": -1.08916666666667,
+   "MMSI": 235014661,
+   "SOG_knots": 21.5,
+   "Time": "2026-07-29 00:04:23.200814"
+  },
+  {
+   "COG_degrees": 169.0,
+   "Latitude_degrees": 50.79251,
+   "Longitude_degrees": -1.11236833333333,
+   "MMSI": 232002939,
+   "SOG_knots": 7.3,
+   "Time": "2026-07-29 00:04:23.528814"
+  },
+  {
+   "COG_degrees": 170.0,
+   "Latitude_degrees": 50.7947333333333,
+   "Longitude_degrees": -1.1112,
+   "MMSI": 235061621,
+   "SOG_knots": 6.1,
+   "Time": "2026-07-29 00:04:23.855814"
+  },
+  {
+   "COG_degrees": 152.0,
+   "Latitude_degrees": 50.8006666666667,
+   "Longitude_degrees": -1.11516666666667,
+   "MMSI": 235072757,
+   "SOG_knots": 1.3,
+   "Time": "2026-07-29 00:04:23.964814"
+  },
+  {
+   "COG_degrees": 94.5,
+   "Latitude_degrees": 50.7895033333333,
+   "Longitude_degrees": -1.11989833333333,
+   "MMSI": 235086588,
+   "SOG_knots": 5.1,
+   "Time": "2026-07-29 00:04:24.401814"
+  },
+  {
+   "COG_degrees": 13.0,
+   "Latitude_degrees": 50.8011333333333,
+   "Longitude_degrees": -1.11343333333333,
+   "MMSI": 311855000,
+   "SOG_knots": 0.5,
+   "Time": "2026-07-29 00:04:24.510814"
+  },
+  {
+   "COG_degrees": 170.0,
+   "Latitude_degrees": 50.7946666666667,
+   "Longitude_degrees": -1.11233333333333,
+   "MMSI": 235070763,
+   "SOG_knots": 6.7,
+   "Time": "2026-07-29 00:04:25.056814"
+  },
+  {
+   "COG_degrees": 5.3,
+   "Latitude_degrees": 50.8008666666667,
+   "Longitude_degrees": -1.112965,
+   "MMSI": 235070762,
+   "SOG_knots": 1.6,
+   "Time": "2026-07-29 00:04:25.166814"
+  },
+  {
+   "COG_degrees": 148.4,
+   "Latitude_degrees": 50.7548333333333,
+   "Longitude_degrees": -1.089,
+   "MMSI": 235014661,
+   "SOG_knots": 21.6,
+   "Time": "2026-07-29 00:04:25.384814"
+  },
+  {
+   "COG_degrees": 28.3,
+   "Latitude_degrees": 50.80126,
+   "Longitude_degrees": -1.296865,
+   "MMSI": 235006680,
+   "SOG_knots": 11.2,
+   "Time": "2026-07-29 00:04:26.039814"
+  },
+  {
+   "COG_degrees": 197.0,
+   "Latitude_degrees": 50.8154383333333,
+   "Longitude_degrees": -1.120105,
+   "MMSI": 235099969,
+   "SOG_knots": 8.1,
+   "Time": "2026-07-29 00:04:26.367814"
+  },
+  {
+   "COG_degrees": 89.2,
+   "Latitude_degrees": 50.7663533333333,
+   "Longitude_degrees": -1.13341166666667,
+   "MMSI": 235082557,
+   "SOG_knots": 6.2,
+   "Time": "2026-07-29 00:04:26.804814"
+  },
+  {
+   "COG_degrees": 360.0,
+   "Latitude_degrees": 50.80708,
+   "Longitude_degrees": -1.11554333333333,
+   "MMSI": 235051664,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:04:26.804814"
+  },
+  {
+   "COG_degrees": 255.8,
+   "Latitude_degrees": 50.7982966666667,
+   "Longitude_degrees": -1.12213333333333,
+   "MMSI": 235109129,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:04:27.022814"
+  },
+  {
+   "COG_degrees": 56.3,
+   "Latitude_degrees": 50.745875,
+   "Longitude_degrees": -1.14605666666667,
+   "MMSI": 235069877,
+   "SOG_knots": 20.6,
+   "Time": "2026-07-29 00:04:27.131814"
+  },
+  {
+   "COG_degrees": 152.1,
+   "Latitude_degrees": 50.7546666666667,
+   "Longitude_degrees": -1.08883333333333,
+   "MMSI": 235014661,
+   "SOG_knots": 21.8,
+   "Time": "2026-07-29 00:04:27.568814"
+  },
+  {
+   "COG_degrees": 187.0,
+   "Latitude_degrees": 50.79779,
+   "Longitude_degrees": -1.11654166666667,
+   "MMSI": 235074703,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:04:28.114814"
+  },
+  {
+   "COG_degrees": 7.0,
+   "Latitude_degrees": 50.8011333333333,
+   "Longitude_degrees": -1.11343333333333,
+   "MMSI": 311855000,
+   "SOG_knots": 0.5,
+   "Time": "2026-07-29 00:04:28.114814"
+  },
+  {
+   "COG_degrees": 104.0,
+   "Latitude_degrees": 50.7971883333333,
+   "Longitude_degrees": -1.109895,
+   "MMSI": 235024149,
+   "SOG_knots": 6.4,
+   "Time": "2026-07-29 00:04:28.223814"
+  },
+  {
+   "COG_degrees": 288.0,
+   "Latitude_degrees": 50.7345,
+   "Longitude_degrees": -1.21316666666667,
+   "MMSI": 235031617,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:04:28.442814"
+  },
+  {
+   "COG_degrees": 95.1,
+   "Latitude_degrees": 50.7911666666667,
+   "Longitude_degrees": -1.1145,
+   "MMSI": 235013375,
+   "SOG_knots": 0.1,
+   "Time": "2026-07-29 00:04:29.206814"
+  },
+  {
+   "COG_degrees": 151.2,
+   "Latitude_degrees": 50.7545,
+   "Longitude_degrees": -1.08866666666667,
+   "MMSI": 235014661,
+   "SOG_knots": 22.4,
+   "Time": "2026-07-29 00:04:29.643814"
+  },
+  {
+   "COG_degrees": 7.0,
+   "Latitude_degrees": 50.800895,
+   "Longitude_degrees": -1.11296,
+   "MMSI": 235070762,
+   "SOG_knots": 1.4,
+   "Time": "2026-07-29 00:04:29.752814"
+  },
+  {
+   "COG_degrees": 196.0,
+   "Latitude_degrees": 50.8152883333333,
+   "Longitude_degrees": -1.12016166666667,
+   "MMSI": 235099969,
+   "SOG_knots": 8.1,
+   "Time": "2026-07-29 00:04:30.189814"
+  },
+  {
+   "COG_degrees": 257.0,
+   "Latitude_degrees": 50.8114033333333,
+   "Longitude_degrees": -1.09696,
+   "MMSI": 227273000,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:04:30.407814"
+  },
+  {
+   "COG_degrees": 55.0,
+   "Latitude_degrees": 50.774,
+   "Longitude_degrees": -1.11616666666667,
+   "MMSI": 235031618,
+   "SOG_knots": 9.3,
+   "Time": "2026-07-29 00:04:31.281814"
+  },
+  {
+   "COG_degrees": 152.6,
+   "Latitude_degrees": 50.7543333333333,
+   "Longitude_degrees": -1.08866666666667,
+   "MMSI": 235014661,
+   "SOG_knots": 22.0,
+   "Time": "2026-07-29 00:04:31.281814"
+  },
+  {
+   "COG_degrees": 108.2,
+   "Latitude_degrees": 50.7971583333333,
+   "Longitude_degrees": -1.10979166666667,
+   "MMSI": 235024149,
+   "SOG_knots": 5.8,
+   "Time": "2026-07-29 00:04:31.608814"
+  },
+  {
+   "COG_degrees": 206.0,
+   "Latitude_degrees": 50.8072233333333,
+   "Longitude_degrees": -1.103875,
+   "MMSI": 235074416,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:04:32.045814"
+  },
+  {
+   "COG_degrees": 4.5,
+   "Latitude_degrees": 50.800925,
+   "Longitude_degrees": -1.11296166666667,
+   "MMSI": 235070762,
+   "SOG_knots": 1.7,
+   "Time": "2026-07-29 00:04:32.154814"
+  },
+  {
+   "COG_degrees": 139.2,
+   "Latitude_degrees": 50.7947133333333,
+   "Longitude_degrees": -1.10870666666667,
+   "MMSI": 235010000,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:04:32.154814"
+  },
+  {
+   "COG_degrees": 194.5,
+   "Latitude_degrees": 50.815215,
+   "Longitude_degrees": -1.12018833333333,
+   "MMSI": 235099969,
+   "SOG_knots": 8.2,
+   "Time": "2026-07-29 00:04:32.264814"
+  },
+  {
+   "COG_degrees": 0.0,
+   "Latitude_degrees": 50.80115,
+   "Longitude_degrees": -1.11345,
+   "MMSI": 311855000,
+   "SOG_knots": 0.5,
+   "Time": "2026-07-29 00:04:32.482814"
+  },
+  {
+   "COG_degrees": 148.6,
+   "Latitude_degrees": 50.8058466666667,
+   "Longitude_degrees": -1.10459333333333,
+   "MMSI": 232002833,
+   "SOG_knots": 0.3,
+   "Time": "2026-07-29 00:04:32.591814"
+  },
+  {
+   "COG_degrees": 152.6,
+   "Latitude_degrees": 50.7902966666667,
+   "Longitude_degrees": -1.11737666666667,
+   "MMSI": 235027329,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:04:32.700814"
+  },
+  {
+   "COG_degrees": 171.0,
+   "Latitude_degrees": 50.7945333333333,
+   "Longitude_degrees": -1.11116666666667,
+   "MMSI": 235061621,
+   "SOG_knots": 6.1,
+   "Time": "2026-07-29 00:04:33.028814"
+  },
+  {
+   "COG_degrees": 148.8,
+   "Latitude_degrees": 50.7541666666667,
+   "Longitude_degrees": -1.0885,
+   "MMSI": 235014661,
+   "SOG_knots": 21.9,
+   "Time": "2026-07-29 00:04:33.246814"
+  },
+  {
+   "COG_degrees": 53.8,
+   "Latitude_degrees": 50.7462216666667,
+   "Longitude_degrees": -1.14534333333333,
+   "MMSI": 235069877,
+   "SOG_knots": 20.6,
+   "Time": "2026-07-29 00:04:33.356814"
+  },
+  {
+   "COG_degrees": 167.0,
+   "Latitude_degrees": 50.7921866666667,
+   "Longitude_degrees": -1.11225,
+   "MMSI": 232002939,
+   "SOG_knots": 7.2,
+   "Time": "2026-07-29 00:04:33.465814"
+  },
+  {
+   "COG_degrees": 132.0,
+   "Latitude_degrees": 50.8005,
+   "Longitude_degrees": -1.11516666666667,
+   "MMSI": 235072757,
+   "SOG_knots": 1.3,
+   "Time": "2026-07-29 00:04:33.574814"
+  },
+  {
+   "COG_degrees": 173.0,
+   "Latitude_degrees": 50.7943333333333,
+   "Longitude_degrees": -1.11233333333333,
+   "MMSI": 235070763,
+   "SOG_knots": 7.3,
+   "Time": "2026-07-29 00:04:34.120814"
+  },
+  {
+   "COG_degrees": 93.6,
+   "Latitude_degrees": 50.7894866666667,
+   "Longitude_degrees": -1.11956333333333,
+   "MMSI": 235086588,
+   "SOG_knots": 4.9,
+   "Time": "2026-07-29 00:04:34.338814"
+  },
+  {
+   "COG_degrees": 188.0,
+   "Latitude_degrees": 50.5513,
+   "Longitude_degrees": -1.11388333333333,
+   "MMSI": 356793000,
+   "SOG_knots": 4.9,
+   "Time": "2026-07-29 00:04:34.448814"
+  },
+  {
+   "COG_degrees": 143.0,
+   "Latitude_degrees": 50.754,
+   "Longitude_degrees": -1.08816666666667,
+   "MMSI": 235014661,
+   "SOG_knots": 22.0,
+   "Time": "2026-07-29 00:04:35.430814"
+  },
+  {
+   "COG_degrees": 355.5,
+   "Latitude_degrees": 50.7959366666667,
+   "Longitude_degrees": -1.109145,
+   "MMSI": 235069875,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:04:35.758814"
+  },
+  {
+   "COG_degrees": 112.7,
+   "Latitude_degrees": 50.7971183333333,
+   "Longitude_degrees": -1.10966666666667,
+   "MMSI": 235024149,
+   "SOG_knots": 5.2,
+   "Time": "2026-07-29 00:04:35.976814"
+  },
+  {
+   "COG_degrees": 354.0,
+   "Latitude_degrees": 50.80115,
+   "Longitude_degrees": -1.11345,
+   "MMSI": 311855000,
+   "SOG_knots": 0.5,
+   "Time": "2026-07-29 00:04:36.195814"
+  },
+  {
+   "COG_degrees": 252.5,
+   "Latitude_degrees": 50.7982966666667,
+   "Longitude_degrees": -1.12213,
+   "MMSI": 235109129,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:04:36.413814"
+  },
+  {
+   "COG_degrees": 27.2,
+   "Latitude_degrees": 50.801765,
+   "Longitude_degrees": -1.29645,
+   "MMSI": 235006680,
+   "SOG_knots": 11.2,
+   "Time": "2026-07-29 00:04:36.632814"
+  },
+  {
+   "COG_degrees": 360.0,
+   "Latitude_degrees": 50.80708,
+   "Longitude_degrees": -1.11554333333333,
+   "MMSI": 235051664,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:04:36.632814"
+  },
+  {
+   "COG_degrees": 193.7,
+   "Latitude_degrees": 50.815065,
+   "Longitude_degrees": -1.12024333333333,
+   "MMSI": 235099969,
+   "SOG_knots": 8.2,
+   "Time": "2026-07-29 00:04:36.850814"
+  },
+  {
+   "COG_degrees": 142.5,
+   "Latitude_degrees": 50.7538333333333,
+   "Longitude_degrees": -1.088,
+   "MMSI": 235014661,
+   "SOG_knots": 21.8,
+   "Time": "2026-07-29 00:04:37.068814"
+  },
+  {
+   "COG_degrees": 5.0,
+   "Latitude_degrees": 50.7345,
+   "Longitude_degrees": -1.21316666666667,
+   "MMSI": 235031617,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:04:37.287814"
+  },
+  {
+   "COG_degrees": 53.4,
+   "Latitude_degrees": 50.7464566666667,
+   "Longitude_degrees": -1.14486666666667,
+   "MMSI": 235069877,
+   "SOG_knots": 20.6,
+   "Time": "2026-07-29 00:04:37.396814"
+  },
+  {
+   "COG_degrees": 357.3,
+   "Latitude_degrees": 50.8141,
+   "Longitude_degrees": -1.09233333333333,
+   "MMSI": 245188000,
+   "SOG_knots": 0.1,
+   "Time": "2026-07-29 00:04:38.051814"
+  },
+  {
+   "COG_degrees": 187.0,
+   "Latitude_degrees": 50.7977883333333,
+   "Longitude_degrees": -1.11653833333333,
+   "MMSI": 235074703,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:04:38.379814"
+  },
+  {
+   "COG_degrees": 350.0,
+   "Latitude_degrees": 50.80115,
+   "Longitude_degrees": -1.11345,
+   "MMSI": 311855000,
+   "SOG_knots": 0.5,
+   "Time": "2026-07-29 00:04:38.488814"
+  },
+  {
+   "COG_degrees": 335.0,
+   "Latitude_degrees": 50.8114033333333,
+   "Longitude_degrees": -1.09696,
+   "MMSI": 227273000,
+   "SOG_knots": 0.1,
+   "Time": "2026-07-29 00:04:38.706814"
+  },
+  {
+   "COG_degrees": 52.6,
+   "Latitude_degrees": 50.7465783333333,
+   "Longitude_degrees": -1.14463333333333,
+   "MMSI": 235069877,
+   "SOG_knots": 20.6,
+   "Time": "2026-07-29 00:04:38.816814"
+  },
+  {
+   "COG_degrees": 115.4,
+   "Latitude_degrees": 50.7970916666667,
+   "Longitude_degrees": -1.10958666666667,
+   "MMSI": 235024149,
+   "SOG_knots": 4.8,
+   "Time": "2026-07-29 00:04:39.034814"
+  },
+  {
+   "COG_degrees": 355.8,
+   "Latitude_degrees": 50.80097,
+   "Longitude_degrees": -1.11295333333333,
+   "MMSI": 235070762,
+   "SOG_knots": 1.5,
+   "Time": "2026-07-29 00:04:39.143814"
+  },
+  {
+   "COG_degrees": 137.5,
+   "Latitude_degrees": 50.7536666666667,
+   "Longitude_degrees": -1.08783333333333,
+   "MMSI": 235014661,
+   "SOG_knots": 22.0,
+   "Time": "2026-07-29 00:04:39.362814"
+  },
+  {
+   "COG_degrees": 331.0,
+   "Latitude_degrees": 50.5738333333333,
+   "Longitude_degrees": -1.0146,
+   "MMSI": 240244000,
+   "SOG_knots": 0.6,
+   "Time": "2026-07-29 00:04:39.471814"
+  },
+  {
+   "COG_degrees": 253.0,
+   "Latitude_degrees": 50.796045,
+   "Longitude_degrees": -1.11645833333333,
+   "MMSI": 235003790,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:04:39.471814"
+  },
+  {
+   "COG_degrees": 95.1,
+   "Latitude_degrees": 50.7911666666667,
+   "Longitude_degrees": -1.1145,
+   "MMSI": 235013375,
+   "SOG_knots": 0.1,
+   "Time": "2026-07-29 00:04:39.580814"
+  },
+  {
+   "COG_degrees": 126.0,
+   "Latitude_degrees": 50.8005,
+   "Longitude_degrees": -1.115,
+   "MMSI": 235072757,
+   "SOG_knots": 1.3,
+   "Time": "2026-07-29 00:04:40.235814"
+  },
+  {
+   "COG_degrees": 57.0,
+   "Latitude_degrees": 50.7741666666667,
+   "Longitude_degrees": -1.11566666666667,
+   "MMSI": 235031618,
+   "SOG_knots": 9.3,
+   "Time": "2026-07-29 00:04:40.563814"
+  },
+  {
+   "COG_degrees": 51.9,
+   "Latitude_degrees": 50.7467,
+   "Longitude_degrees": -1.14439666666667,
+   "MMSI": 235069877,
+   "SOG_knots": 20.6,
+   "Time": "2026-07-29 00:04:40.890814"
+  },
+  {
+   "COG_degrees": 137.7,
+   "Latitude_degrees": 50.7535,
+   "Longitude_degrees": -1.08766666666667,
+   "MMSI": 235014661,
+   "SOG_knots": 22.6,
+   "Time": "2026-07-29 00:04:41.000814"
+  },
+  {
+   "COG_degrees": 117.8,
+   "Latitude_degrees": 50.7970683333333,
+   "Longitude_degrees": -1.10952,
+   "MMSI": 235024149,
+   "SOG_knots": 4.2,
+   "Time": "2026-07-29 00:04:41.218814"
+  },
+  {
+   "COG_degrees": 206.0,
+   "Latitude_degrees": 50.8072233333333,
+   "Longitude_degrees": -1.10387166666667,
+   "MMSI": 235074416,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:04:41.655814"
+  },
+  {
+   "COG_degrees": 166.1,
+   "Latitude_degrees": 50.7928566666667,
+   "Longitude_degrees": -1.11188,
+   "MMSI": 234586000,
+   "SOG_knots": 8.3,
+   "Time": "2026-07-29 00:04:41.873814"
+  },
+  {
+   "COG_degrees": 344.0,
+   "Latitude_degrees": 50.8011666666667,
+   "Longitude_degrees": -1.11346666666667,
+   "MMSI": 311855000,
+   "SOG_knots": 0.5,
+   "Time": "2026-07-29 00:04:42.528814"
+  },
+  {
+   "COG_degrees": 170.0,
+   "Latitude_degrees": 50.7942,
+   "Longitude_degrees": -1.11106666666667,
+   "MMSI": 235061621,
+   "SOG_knots": 6.7,
+   "Time": "2026-07-29 00:04:42.638814"
+  },
+  {
+   "COG_degrees": 51.6,
+   "Latitude_degrees": 50.7468183333333,
+   "Longitude_degrees": -1.14415833333333,
+   "MMSI": 235069877,
+   "SOG_knots": 20.7,
+   "Time": "2026-07-29 00:04:42.747814"
+  },
+  {
+   "COG_degrees": 143.3,
+   "Latitude_degrees": 50.7533333333333,
+   "Longitude_degrees": -1.08733333333333,
+   "MMSI": 235014661,
+   "SOG_knots": 22.7,
+   "Time": "2026-07-29 00:04:43.184814"
+  },
+  {
+   "COG_degrees": 193.9,
+   "Latitude_degrees": 50.8148066666667,
+   "Longitude_degrees": -1.12034,
+   "MMSI": 235099969,
+   "SOG_knots": 8.2,
+   "Time": "2026-07-29 00:04:43.293814"
+  },
+  {
+   "COG_degrees": 164.0,
+   "Latitude_degrees": 50.79187,
+   "Longitude_degrees": -1.11208666666667,
+   "MMSI": 232002939,
+   "SOG_knots": 7.1,
+   "Time": "2026-07-29 00:04:43.511814"
+  },
+  {
+   "COG_degrees": 121.0,
+   "Latitude_degrees": 50.8005,
+   "Longitude_degrees": -1.115,
+   "MMSI": 235072757,
+   "SOG_knots": 1.2,
+   "Time": "2026-07-29 00:04:44.057814"
+  },
+  {
+   "COG_degrees": 97.1,
+   "Latitude_degrees": 50.78947,
+   "Longitude_degrees": -1.11916333333333,
+   "MMSI": 235086588,
+   "SOG_knots": 5.0,
+   "Time": "2026-07-29 00:04:44.494814"
+  },
+  {
+   "COG_degrees": 51.9,
+   "Latitude_degrees": 50.746875,
+   "Longitude_degrees": -1.14403833333333,
+   "MMSI": 235069877,
+   "SOG_knots": 20.7,
+   "Time": "2026-07-29 00:04:44.603814"
+  },
+  {
+   "COG_degrees": 120.6,
+   "Latitude_degrees": 50.797045,
+   "Longitude_degrees": -1.109465,
+   "MMSI": 235024149,
+   "SOG_knots": 3.7,
+   "Time": "2026-07-29 00:04:44.603814"
+  },
+  {
+   "COG_degrees": 144.7,
+   "Latitude_degrees": 50.7531666666667,
+   "Longitude_degrees": -1.08716666666667,
+   "MMSI": 235014661,
+   "SOG_knots": 21.9,
+   "Time": "2026-07-29 00:04:45.040814"
+  },
+  {
+   "COG_degrees": 177.0,
+   "Latitude_degrees": 50.7938333333333,
+   "Longitude_degrees": -1.11233333333333,
+   "MMSI": 235070763,
+   "SOG_knots": 7.7,
+   "Time": "2026-07-29 00:04:45.040814"
+  },
+  {
+   "COG_degrees": 339.0,
+   "Latitude_degrees": 50.8011666666667,
+   "Longitude_degrees": -1.11346666666667,
+   "MMSI": 311855000,
+   "SOG_knots": 0.5,
+   "Time": "2026-07-29 00:04:45.258814"
+  },
+  {
+   "COG_degrees": 360.0,
+   "Latitude_degrees": 50.80708,
+   "Longitude_degrees": -1.11554333333333,
+   "MMSI": 235051664,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:04:45.368814"
+  },
+  {
+   "COG_degrees": 346.7,
+   "Latitude_degrees": 50.8010033333333,
+   "Longitude_degrees": -1.11297166666667,
+   "MMSI": 235070762,
+   "SOG_knots": 1.2,
+   "Time": "2026-07-29 00:04:45.586814"
+  },
+  {
+   "COG_degrees": 251.0,
+   "Latitude_degrees": 50.798295,
+   "Longitude_degrees": -1.12212166666667,
+   "MMSI": 235109129,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:04:46.023814"
+  },
+  {
+   "COG_degrees": 193.1,
+   "Latitude_degrees": 50.814695,
+   "Longitude_degrees": -1.12037666666667,
+   "MMSI": 235099969,
+   "SOG_knots": 8.2,
+   "Time": "2026-07-29 00:04:46.350814"
+  },
+  {
+   "COG_degrees": 114.0,
+   "Latitude_degrees": 50.8005,
+   "Longitude_degrees": -1.115,
+   "MMSI": 235072757,
+   "SOG_knots": 1.2,
+   "Time": "2026-07-29 00:04:46.678814"
+  },
+  {
+   "COG_degrees": 27.2,
+   "Latitude_degrees": 50.8022316666667,
+   "Longitude_degrees": -1.29607833333333,
+   "MMSI": 235006680,
+   "SOG_knots": 11.2,
+   "Time": "2026-07-29 00:04:47.006814"
+  },
+  {
+   "COG_degrees": 246.6,
+   "Latitude_degrees": 50.795935,
+   "Longitude_degrees": -1.10913666666667,
+   "MMSI": 235069875,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:04:47.115814"
+  },
+  {
+   "COG_degrees": 138.5,
+   "Latitude_degrees": 50.753,
+   "Longitude_degrees": -1.087,
+   "MMSI": 235014661,
+   "SOG_knots": 21.5,
+   "Time": "2026-07-29 00:04:47.224814"
+  },
+  {
+   "COG_degrees": 51.8,
+   "Latitude_degrees": 50.74706,
+   "Longitude_degrees": -1.14368666666667,
+   "MMSI": 235069877,
+   "SOG_knots": 20.7,
+   "Time": "2026-07-29 00:04:47.333814"
+  },
+  {
+   "COG_degrees": 187.0,
+   "Latitude_degrees": 50.79779,
+   "Longitude_degrees": -1.11656666666667,
+   "MMSI": 235074703,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:04:48.098814"
+  },
+  {
+   "COG_degrees": 124.4,
+   "Latitude_degrees": 50.7970166666667,
+   "Longitude_degrees": -1.109415,
+   "MMSI": 235024149,
+   "SOG_knots": 2.9,
+   "Time": "2026-07-29 00:04:48.425814"
+  },
+  {
+   "COG_degrees": 290.3,
+   "Latitude_degrees": 50.8141,
+   "Longitude_degrees": -1.09233333333333,
+   "MMSI": 245188000,
+   "SOG_knots": 0.1,
+   "Time": "2026-07-29 00:04:48.644814"
+  },
+  {
+   "COG_degrees": 10.2,
+   "Latitude_degrees": 50.801025,
+   "Longitude_degrees": -1.11295666666667,
+   "MMSI": 235070762,
+   "SOG_knots": 1.2,
+   "Time": "2026-07-29 00:04:48.753814"
+  },
+  {
+   "COG_degrees": 50.9,
+   "Latitude_degrees": 50.7471766666667,
+   "Longitude_degrees": -1.143455,
+   "MMSI": 235069877,
+   "SOG_knots": 20.7,
+   "Time": "2026-07-29 00:04:48.971814"
+  },
+  {
+   "COG_degrees": 133.7,
+   "Latitude_degrees": 50.7528333333333,
+   "Longitude_degrees": -1.08683333333333,
+   "MMSI": 235014661,
+   "SOG_knots": 21.6,
+   "Time": "2026-07-29 00:04:49.080814"
+  },
+  {
+   "COG_degrees": 336.0,
+   "Latitude_degrees": 50.8011833333333,
+   "Longitude_degrees": -1.11348333333333,
+   "MMSI": 311855000,
+   "SOG_knots": 0.5,
+   "Time": "2026-07-29 00:04:49.190814"
+  },
+  {
+   "COG_degrees": 55.0,
+   "Latitude_degrees": 50.7745,
+   "Longitude_degrees": -1.11516666666667,
+   "MMSI": 235031618,
+   "SOG_knots": 9.3,
+   "Time": "2026-07-29 00:04:49.626814"
+  },
+  {
+   "COG_degrees": 95.1,
+   "Latitude_degrees": 50.7911666666667,
+   "Longitude_degrees": -1.1145,
+   "MMSI": 235013375,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:04:50.063814"
+  },
+  {
+   "COG_degrees": 51.2,
+   "Latitude_degrees": 50.7472966666667,
+   "Longitude_degrees": -1.14322,
+   "MMSI": 235069877,
+   "SOG_knots": 20.6,
+   "Time": "2026-07-29 00:04:50.828814"
+  },
+  {
+   "COG_degrees": 178.0,
+   "Latitude_degrees": 50.7936666666667,
+   "Longitude_degrees": -1.11233333333333,
+   "MMSI": 235070763,
+   "SOG_knots": 7.9,
+   "Time": "2026-07-29 00:04:51.155814"
+  },
+  {
+   "COG_degrees": 136.8,
+   "Latitude_degrees": 50.7526666666667,
+   "Longitude_degrees": -1.08666666666667,
+   "MMSI": 235014661,
+   "SOG_knots": 22.0,
+   "Time": "2026-07-29 00:04:51.264814"
+  },
+  {
+   "COG_degrees": 206.0,
+   "Latitude_degrees": 50.8072216666667,
+   "Longitude_degrees": -1.10387333333333,
+   "MMSI": 235074416,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:04:51.374814"
+  },
+  {
+   "COG_degrees": 127.0,
+   "Latitude_degrees": 50.7970033333333,
+   "Longitude_degrees": -1.10939,
+   "MMSI": 235024149,
+   "SOG_knots": 2.3,
+   "Time": "2026-07-29 00:04:51.810814"
+  },
+  {
+   "COG_degrees": 162.9,
+   "Latitude_degrees": 50.7924383333333,
+   "Longitude_degrees": -1.11175333333333,
+   "MMSI": 234586000,
+   "SOG_knots": 8.7,
+   "Time": "2026-07-29 00:04:52.029814"
+  },
+  {
+   "COG_degrees": 330.0,
+   "Latitude_degrees": 50.8011833333333,
+   "Longitude_degrees": -1.11348333333333,
+   "MMSI": 311855000,
+   "SOG_knots": 0.5,
+   "Time": "2026-07-29 00:04:52.138814"
+  },
+  {
+   "COG_degrees": 24.5,
+   "Latitude_degrees": 50.80103,
+   "Longitude_degrees": -1.11296666666667,
+   "MMSI": 235070762,
+   "SOG_knots": 0.9,
+   "Time": "2026-07-29 00:04:52.138814"
+  },
+  {
+   "COG_degrees": 171.0,
+   "Latitude_degrees": 50.7937833333333,
+   "Longitude_degrees": -1.11098333333333,
+   "MMSI": 235061621,
+   "SOG_knots": 7.3,
+   "Time": "2026-07-29 00:04:52.902814"
+  },
+  {
+   "COG_degrees": 160.0,
+   "Latitude_degrees": 50.79156,
+   "Longitude_degrees": -1.111925,
+   "MMSI": 232002939,
+   "SOG_knots": 7.1,
+   "Time": "2026-07-29 00:04:53.230814"
+  },
+  {
+   "COG_degrees": 136.0,
+   "Latitude_degrees": 50.7526666666667,
+   "Longitude_degrees": -1.08633333333333,
+   "MMSI": 235014661,
+   "SOG_knots": 22.4,
+   "Time": "2026-07-29 00:04:53.339814"
+  },
+  {
+   "COG_degrees": 106.0,
+   "Latitude_degrees": 50.8005,
+   "Longitude_degrees": -1.115,
+   "MMSI": 235072757,
+   "SOG_knots": 1.2,
+   "Time": "2026-07-29 00:04:53.339814"
+  },
+  {
+   "COG_degrees": 190.6,
+   "Latitude_degrees": 50.8143966666667,
+   "Longitude_degrees": -1.12046166666667,
+   "MMSI": 235099969,
+   "SOG_knots": 8.2,
+   "Time": "2026-07-29 00:04:54.322814"
+  },
+  {
+   "COG_degrees": 51.6,
+   "Latitude_degrees": 50.7474716666667,
+   "Longitude_degrees": -1.14287166666667,
+   "MMSI": 235069877,
+   "SOG_knots": 20.5,
+   "Time": "2026-07-29 00:04:54.540814"
+  },
+  {
+   "COG_degrees": 178.0,
+   "Latitude_degrees": 50.7935,
+   "Longitude_degrees": -1.11233333333333,
+   "MMSI": 235070763,
+   "SOG_knots": 8.1,
+   "Time": "2026-07-29 00:04:54.540814"
+  },
+  {
+   "COG_degrees": 126.5,
+   "Latitude_degrees": 50.796995,
+   "Longitude_degrees": -1.10937,
+   "MMSI": 235024149,
+   "SOG_knots": 1.8,
+   "Time": "2026-07-29 00:04:54.868814"
+  },
+  {
+   "COG_degrees": 140.6,
+   "Latitude_degrees": 50.7525,
+   "Longitude_degrees": -1.08616666666667,
+   "MMSI": 235014661,
+   "SOG_knots": 22.1,
+   "Time": "2026-07-29 00:04:55.086814"
+  },
+  {
+   "COG_degrees": 360.0,
+   "Latitude_degrees": 50.80708,
+   "Longitude_degrees": -1.11554333333333,
+   "MMSI": 235051664,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:04:55.305814"
+  },
+  {
+   "COG_degrees": 65.8,
+   "Latitude_degrees": 50.801025,
+   "Longitude_degrees": -1.11295166666667,
+   "MMSI": 235070762,
+   "SOG_knots": 0.7,
+   "Time": "2026-07-29 00:04:55.305814"
+  },
+  {
+   "COG_degrees": 326.0,
+   "Latitude_degrees": 50.8011833333333,
+   "Longitude_degrees": -1.1135,
+   "MMSI": 311855000,
+   "SOG_knots": 0.5,
+   "Time": "2026-07-29 00:04:55.632814"
+  },
+  {
+   "COG_degrees": 120.7,
+   "Latitude_degrees": 50.762865,
+   "Longitude_degrees": -1.15210166666667,
+   "MMSI": 247007000,
+   "SOG_knots": 9.3,
+   "Time": "2026-07-29 00:04:55.742814"
+  },
+  {
+   "COG_degrees": 97.1,
+   "Latitude_degrees": 50.7894366666667,
+   "Longitude_degrees": -1.118765,
+   "MMSI": 235086588,
+   "SOG_knots": 5.0,
+   "Time": "2026-07-29 00:04:56.069814"
+  },
+  {
+   "COG_degrees": 51.6,
+   "Latitude_degrees": 50.747585,
+   "Longitude_degrees": -1.14264166666667,
+   "MMSI": 235069877,
+   "SOG_knots": 20.4,
+   "Time": "2026-07-29 00:04:56.506814"
+  },
+  {
+   "COG_degrees": 252.6,
+   "Latitude_degrees": 50.798295,
+   "Longitude_degrees": -1.12212,
+   "MMSI": 235109129,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:04:56.615814"
+  },
+  {
+   "COG_degrees": 141.5,
+   "Latitude_degrees": 50.7523333333333,
+   "Longitude_degrees": -1.086,
+   "MMSI": 235014661,
+   "SOG_knots": 22.1,
+   "Time": "2026-07-29 00:04:57.161814"
+  },
+  {
+   "COG_degrees": 189.8,
+   "Latitude_degrees": 50.8143183333333,
+   "Longitude_degrees": -1.12047833333333,
+   "MMSI": 235099969,
+   "SOG_knots": 8.2,
+   "Time": "2026-07-29 00:04:57.161814"
+  },
+  {
+   "COG_degrees": 27.5,
+   "Latitude_degrees": 50.802695,
+   "Longitude_degrees": -1.29569833333333,
+   "MMSI": 235006680,
+   "SOG_knots": 11.3,
+   "Time": "2026-07-29 00:04:57.270814"
+  },
+  {
+   "COG_degrees": 35.9,
+   "Latitude_degrees": 50.76703,
+   "Longitude_degrees": -1.13272,
+   "MMSI": 235082557,
+   "SOG_knots": 5.6,
+   "Time": "2026-07-29 00:04:57.598814"
+  },
+  {
+   "COG_degrees": 177.0,
+   "Latitude_degrees": 50.7933333333333,
+   "Longitude_degrees": -1.11233333333333,
+   "MMSI": 235070763,
+   "SOG_knots": 8.2,
+   "Time": "2026-07-29 00:04:58.144814"
+  },
+  {
+   "COG_degrees": 64.0,
+   "Latitude_degrees": 50.8141,
+   "Longitude_degrees": -1.09233333333333,
+   "MMSI": 245188000,
+   "SOG_knots": 0.1,
+   "Time": "2026-07-29 00:04:58.144814"
+  },
+  {
+   "COG_degrees": 126.6,
+   "Latitude_degrees": 50.7969916666667,
+   "Longitude_degrees": -1.10936,
+   "MMSI": 235024149,
+   "SOG_knots": 1.2,
+   "Time": "2026-07-29 00:04:58.144814"
+  },
+  {
+   "COG_degrees": 323.0,
+   "Latitude_degrees": 50.7345,
+   "Longitude_degrees": -1.21316666666667,
+   "MMSI": 235031617,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:04:58.253814"
+  },
+  {
+   "COG_degrees": 116.5,
+   "Latitude_degrees": 50.8010116666667,
+   "Longitude_degrees": -1.11293166666667,
+   "MMSI": 235070762,
+   "SOG_knots": 0.7,
+   "Time": "2026-07-29 00:04:58.472814"
+  },
+  {
+   "COG_degrees": 95.1,
+   "Latitude_degrees": 50.7911666666667,
+   "Longitude_degrees": -1.1145,
+   "MMSI": 235013375,
+   "SOG_knots": 0.1,
+   "Time": "2026-07-29 00:04:58.690814"
+  },
+  {
+   "COG_degrees": 323.0,
+   "Latitude_degrees": 50.8011833333333,
+   "Longitude_degrees": -1.1135,
+   "MMSI": 311855000,
+   "SOG_knots": 0.5,
+   "Time": "2026-07-29 00:04:58.908814"
+  },
+  {
+   "COG_degrees": 187.0,
+   "Latitude_degrees": 50.79779,
+   "Longitude_degrees": -1.11656833333333,
+   "MMSI": 235074703,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:04:59.127814"
+  },
+  {
+   "COG_degrees": 146.6,
+   "Latitude_degrees": 50.7521666666667,
+   "Longitude_degrees": -1.08583333333333,
+   "MMSI": 235014661,
+   "SOG_knots": 22.2,
+   "Time": "2026-07-29 00:04:59.236814"
+  },
+  {
+   "COG_degrees": 80.0,
+   "Latitude_degrees": 50.8114033333333,
+   "Longitude_degrees": -1.09696,
+   "MMSI": 227273000,
+   "SOG_knots": 0.1,
+   "Time": "2026-07-29 00:04:59.345814"
+  },
+  {
+   "COG_degrees": 7.4,
+   "Latitude_degrees": 50.7959316666667,
+   "Longitude_degrees": -1.10914,
+   "MMSI": 235069875,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:04:59.564814"
+  },
+  {
+   "COG_degrees": 185.0,
+   "Latitude_degrees": 50.7138783333333,
+   "Longitude_degrees": -1.05952666666667,
+   "MMSI": 249050000,
+   "SOG_knots": 0.4,
+   "Time": "2026-07-29 00:04:59.673814"
+  },
+  {
+   "COG_degrees": 188.9,
+   "Latitude_degrees": 50.814205,
+   "Longitude_degrees": -1.12049833333333,
+   "MMSI": 235099969,
+   "SOG_knots": 8.3,
+   "Time": "2026-07-29 00:04:59.891814"
+  },
+  {
+   "COG_degrees": 331.9,
+   "Latitude_degrees": 50.82086,
+   "Longitude_degrees": -1.13323,
+   "MMSI": 235031303,
+   "SOG_knots": 5.2,
+   "Time": "2026-07-29 00:05:00.328814"
+  },
+  {
+   "COG_degrees": 206.0,
+   "Latitude_degrees": 50.8072216666667,
+   "Longitude_degrees": -1.10387333333333,
+   "MMSI": 235074416,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:05:00.983814"
+  },
+  {
+   "COG_degrees": 274.6,
+   "Latitude_degrees": 50.61618,
+   "Longitude_degrees": -1.072035,
+   "MMSI": 355920000,
+   "SOG_knots": 0.5,
+   "Time": "2026-07-29 00:05:01.202814"
+  },
+  {
+   "COG_degrees": 55.0,
+   "Latitude_degrees": 50.7748333333333,
+   "Longitude_degrees": -1.1145,
+   "MMSI": 235031618,
+   "SOG_knots": 9.3,
+   "Time": "2026-07-29 00:05:01.202814"
+  },
+  {
+   "COG_degrees": 147.6,
+   "Latitude_degrees": 50.752,
+   "Longitude_degrees": -1.0855,
+   "MMSI": 235014661,
+   "SOG_knots": 22.8,
+   "Time": "2026-07-29 00:05:01.311814"
+  },
+  {
+   "COG_degrees": 161.5,
+   "Latitude_degrees": 50.7921,
+   "Longitude_degrees": -1.11154166666667,
+   "MMSI": 234586000,
+   "SOG_knots": 9.0,
+   "Time": "2026-07-29 00:05:01.529814"
+  },
+  {
+   "COG_degrees": 117.8,
+   "Latitude_degrees": 50.8010083333333,
+   "Longitude_degrees": -1.11291166666667,
+   "MMSI": 235070762,
+   "SOG_knots": 0.8,
+   "Time": "2026-07-29 00:05:01.857814"
+  },
+  {
+   "COG_degrees": 148.6,
+   "Latitude_degrees": 50.79471,
+   "Longitude_degrees": -1.10868,
+   "MMSI": 235010000,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:05:01.966814"
+  },
+  {
+   "COG_degrees": 157.0,
+   "Latitude_degrees": 50.79127,
+   "Longitude_degrees": -1.11175,
+   "MMSI": 232002939,
+   "SOG_knots": 7.6,
+   "Time": "2026-07-29 00:05:02.403814"
+  },
+  {
+   "COG_degrees": 316.0,
+   "Latitude_degrees": 50.8011833333333,
+   "Longitude_degrees": -1.11351666666667,
+   "MMSI": 311855000,
+   "SOG_knots": 0.5,
+   "Time": "2026-07-29 00:05:02.512814"
+  },
+  {
+   "COG_degrees": 127.8,
+   "Latitude_degrees": 50.79699,
+   "Longitude_degrees": -1.109355,
+   "MMSI": 235024149,
+   "SOG_knots": 0.6,
+   "Time": "2026-07-29 00:05:02.621814"
+  },
+  {
+   "COG_degrees": 187.7,
+   "Latitude_degrees": 50.81409,
+   "Longitude_degrees": -1.12051666666667,
+   "MMSI": 235099969,
+   "SOG_knots": 8.3,
+   "Time": "2026-07-29 00:05:02.730814"
+  },
+  {
+   "COG_degrees": 86.9,
+   "Latitude_degrees": 50.8069666666667,
+   "Longitude_degrees": -1.11583666666667,
+   "MMSI": 212890000,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:05:02.949814"
+  },
+  {
+   "COG_degrees": 154.5,
+   "Latitude_degrees": 50.7516666666667,
+   "Longitude_degrees": -1.0855,
+   "MMSI": 235014661,
+   "SOG_knots": 22.2,
+   "Time": "2026-07-29 00:05:03.167814"
+  },
+  {
+   "COG_degrees": 53.4,
+   "Latitude_degrees": 50.7479633333333,
+   "Longitude_degrees": -1.14180333333333,
+   "MMSI": 235069877,
+   "SOG_knots": 20.1,
+   "Time": "2026-07-29 00:05:03.167814"
+  },
+  {
+   "COG_degrees": 170.0,
+   "Latitude_degrees": 50.7934333333333,
+   "Longitude_degrees": -1.11088333333333,
+   "MMSI": 235061621,
+   "SOG_knots": 7.5,
+   "Time": "2026-07-29 00:05:03.495814"
+  },
+  {
+   "COG_degrees": 89.0,
+   "Latitude_degrees": 50.8005,
+   "Longitude_degrees": -1.11483333333333,
+   "MMSI": 235072757,
+   "SOG_knots": 1.2,
+   "Time": "2026-07-29 00:05:03.604814"
+  },
+  {
+   "COG_degrees": 174.0,
+   "Latitude_degrees": 50.7931666666667,
+   "Longitude_degrees": -1.11216666666667,
+   "MMSI": 235070763,
+   "SOG_knots": 8.3,
+   "Time": "2026-07-29 00:05:04.478814"
+  },
+  {
+   "COG_degrees": 127.7,
+   "Latitude_degrees": 50.79699,
+   "Longitude_degrees": -1.10935333333333,
+   "MMSI": 235024149,
+   "SOG_knots": 0.4,
+   "Time": "2026-07-29 00:05:04.587814"
+  },
+  {
+   "COG_degrees": 99.1,
+   "Latitude_degrees": 50.7894066666667,
+   "Longitude_degrees": -1.11843666666667,
+   "MMSI": 235086588,
+   "SOG_knots": 4.9,
+   "Time": "2026-07-29 00:05:05.242814"
+  },
+  {
+   "COG_degrees": 171.5,
+   "Latitude_degrees": 50.801,
+   "Longitude_degrees": -1.11293,
+   "MMSI": 235070762,
+   "SOG_knots": 0.4,
+   "Time": "2026-07-29 00:05:05.351814"
+  },
+  {
+   "COG_degrees": 151.4,
+   "Latitude_degrees": 50.7515,
+   "Longitude_degrees": -1.08533333333333,
+   "MMSI": 235014661,
+   "SOG_knots": 22.2,
+   "Time": "2026-07-29 00:05:05.351814"
+  },
+  {
+   "COG_degrees": 27.2,
+   "Latitude_degrees": 50.8031116666667,
+   "Longitude_degrees": -1.29536166666667,
+   "MMSI": 235006680,
+   "SOG_knots": 11.2,
+   "Time": "2026-07-29 00:05:06.334814"
+  },
+  {
+   "COG_degrees": 313.0,
+   "Latitude_degrees": 50.8011833333333,
+   "Longitude_degrees": -1.11353333333333,
+   "MMSI": 311855000,
+   "SOG_knots": 0.5,
+   "Time": "2026-07-29 00:05:06.443814"
+  },
+  {
+   "COG_degrees": 201.0,
+   "Latitude_degrees": 50.7345,
+   "Longitude_degrees": -1.21316666666667,
+   "MMSI": 235031617,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:05:06.552814"
+  },
+  {
+   "COG_degrees": 360.0,
+   "Latitude_degrees": 50.80709,
+   "Longitude_degrees": -1.115545,
+   "MMSI": 235051664,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:05:06.662814"
+  },
+  {
+   "COG_degrees": 186.3,
+   "Latitude_degrees": 50.8139366666667,
+   "Longitude_degrees": -1.12053833333333,
+   "MMSI": 235099969,
+   "SOG_knots": 8.3,
+   "Time": "2026-07-29 00:05:07.208814"
+  },
+  {
+   "COG_degrees": 151.1,
+   "Latitude_degrees": 50.7513333333333,
+   "Longitude_degrees": -1.08516666666667,
+   "MMSI": 235014661,
+   "SOG_knots": 22.2,
+   "Time": "2026-07-29 00:05:07.317814"
+  },
+  {
+   "COG_degrees": 254.3,
+   "Latitude_degrees": 50.7982883333333,
+   "Longitude_degrees": -1.12211833333333,
+   "MMSI": 235109129,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:05:07.317814"
+  },
+  {
+   "COG_degrees": 311.0,
+   "Latitude_degrees": 50.8012,
+   "Longitude_degrees": -1.11355,
+   "MMSI": 311855000,
+   "SOG_knots": 0.5,
+   "Time": "2026-07-29 00:05:07.644814"
+  },
+  {
+   "COG_degrees": 187.0,
+   "Latitude_degrees": 50.7977916666667,
+   "Longitude_degrees": -1.116565,
+   "MMSI": 235074703,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:05:08.081814"
+  },
+  {
+   "COG_degrees": 55.9,
+   "Latitude_degrees": 50.74821,
+   "Longitude_degrees": -1.141205,
+   "MMSI": 235069877,
+   "SOG_knots": 19.8,
+   "Time": "2026-07-29 00:05:08.627814"
+  },
+  {
+   "COG_degrees": 147.1,
+   "Latitude_degrees": 50.7511666666667,
+   "Longitude_degrees": -1.085,
+   "MMSI": 235014661,
+   "SOG_knots": 22.2,
+   "Time": "2026-07-29 00:05:09.064814"
+  },
+  {
+   "COG_degrees": 118.0,
+   "Latitude_degrees": 50.811405,
+   "Longitude_degrees": -1.09696,
+   "MMSI": 227273000,
+   "SOG_knots": 0.1,
+   "Time": "2026-07-29 00:05:09.173814"
+  },
+  {
+   "COG_degrees": 95.1,
+   "Latitude_degrees": 50.7911666666667,
+   "Longitude_degrees": -1.1145,
+   "MMSI": 235013375,
+   "SOG_knots": 0.1,
+   "Time": "2026-07-29 00:05:09.282814"
+  },
+  {
+   "COG_degrees": 314.8,
+   "Latitude_degrees": 50.8141,
+   "Longitude_degrees": -1.09231666666667,
+   "MMSI": 245188000,
+   "SOG_knots": 0.2,
+   "Time": "2026-07-29 00:05:09.282814"
+  },
+  {
+   "COG_degrees": 101.0,
+   "Latitude_degrees": 50.7969933333333,
+   "Longitude_degrees": -1.10935,
+   "MMSI": 235024149,
+   "SOG_knots": 0.2,
+   "Time": "2026-07-29 00:05:09.501814"
+  },
+  {
+   "COG_degrees": 261.7,
+   "Latitude_degrees": 50.8010016666667,
+   "Longitude_degrees": -1.11294,
+   "MMSI": 235070762,
+   "SOG_knots": 0.5,
+   "Time": "2026-07-29 00:05:09.828814"
+  },
+  {
+   "COG_degrees": 185.6,
+   "Latitude_degrees": 50.813785,
+   "Longitude_degrees": -1.12055333333333,
+   "MMSI": 235099969,
+   "SOG_knots": 8.3,
+   "Time": "2026-07-29 00:05:10.265814"
+  },
+  {
+   "COG_degrees": 360.0,
+   "Latitude_degrees": 50.8015783333333,
+   "Longitude_degrees": -1.12299333333333,
+   "MMSI": 235104222,
+   "SOG_knots": 0.1,
+   "Time": "2026-07-29 00:05:10.702814"
+  },
+  {
+   "COG_degrees": 54.0,
+   "Latitude_degrees": 50.775,
+   "Longitude_degrees": -1.11383333333333,
+   "MMSI": 235031618,
+   "SOG_knots": 9.3,
+   "Time": "2026-07-29 00:05:10.811814"
+  },
+  {
+   "COG_degrees": 145.9,
+   "Latitude_degrees": 50.751,
+   "Longitude_degrees": -1.08483333333333,
+   "MMSI": 235014661,
+   "SOG_knots": 22.2,
+   "Time": "2026-07-29 00:05:11.248814"
+  },
+  {
+   "COG_degrees": 247.7,
+   "Latitude_degrees": 50.7959283333333,
+   "Longitude_degrees": -1.10914,
+   "MMSI": 235069875,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 00:05:11.357814"
+  },
+  {
+   "COG_degrees": 266.4,
+   "Latitude_degrees": 50.8010016666667,
+   "Longitude_degrees": -1.112985,
+   "MMSI": 235070762,
+   "SOG_knots": 0.8,
+   "Time": "2026-07-29 00:05:11.794814"
+  },
+  {
+   "COG_degrees": 161.7,
+   "Latitude_degrees": 50.791685,
+   "Longitude_degrees": -1.11130833333333,
+   "MMSI": 234586000,
+   "SOG_knots": 9.3,
+   "Time": "2026-07-29 00:05:12.012814"
+  },
+  {
+   "COG_degrees": 87.8,
+   "Latitude_degrees": 50.8141,
+   "Longitude_degrees": 54.83172,
+   "MMSI": 245188000,
+   "SOG_knots": 0.0,
+   "Time": "2026-07-29 01:19:10.907814"
+  }
+ ]
+}
